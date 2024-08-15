@@ -1,15 +1,5 @@
 #EXTM
 ##############################################MOTOGP###################################################
-#EXTINF:-1 group-title="MOTOGP",UK: SKY SPORTS Action/NFL
-http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508238
-#EXTINF:-1 group-title="MOTOGP",UK: SKY SPORTS Arena
-http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508240
-
-#EXTINF:-1 group-title="MOTOGP",UK: SKY SPORTS Premier League
-http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508256
-
-#EXTINF:-1 group-title="MOTOGP",UK: SKY SPORTS Football
-http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508248
 
 #EXTINF:-1 group-title="MOTOGP",||UK|| BT SPORT 2 FHD
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2106
@@ -23,6 +13,17 @@ http://325080141159228385.ofg0316.xyz:80/play/mi34647/GjJm3vdSy@/228385.ts
 #EXTINF:0 tvg-rec="0" group-title="MOTOGP",SKY SPORTS F1 UK
 #EXTGRP:спорт
 http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7342/index.m3u8
+
+##############################################SPORTS###################################################
+
+#EXTINF:-1 group-title="SPORTS",UK: SKY SPORTS Arena
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508240
+
+#EXTINF:-1 group-title="SPORTS",UK: SKY SPORTS Premier League
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508256
+
+#EXTINF:-1 group-title="SPORTS",UK: SKY SPORTS Football
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508248
 
 #EXTINF:-1 group-title="SPORTS",||BE|| ELEVEN SPORTS 1 HD+
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/649

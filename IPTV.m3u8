@@ -1,5 +1,7 @@
 #EXTM
 ##############################################MOTOGP###################################################
+#EXTINF:-1 group-title="MOTOGP",||UK|| BT SPORT 2 FHD
+http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 group-title="MOTOGP",||UK|| BT SPORT 2 FHD
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2106

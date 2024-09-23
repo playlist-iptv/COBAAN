@@ -1,0 +1,1952 @@
+#EXTM3U generation-date="2024.07.31 21:26:52 MSK"
+#EXTINF:0 tvg-name="ch001"  tvg-logo="http://tv.team/images/chIcons/1.png"  timeshift="6", Первый HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch001/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGehaI-2HIW89oZxbc1Xx5zj-HETZH3dwg4RCCj2WInf
+#EXTINF:0 tvg-name="ch1089"  tvg-logo="http://tv.team/images/chIcons/1089.png"  timeshift="6", Первый HD (Uncomp)
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch1089/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA9EI8xOLmM90wnoaxNQSDk1tM3EBrp33Ijr7Zm9PuB1
+#EXTINF:0 tvg-name="ch1643"  tvg-logo="http://tv.team/images/chIcons/1643.png"  timeshift="7", Первый
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch1643/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNXI-RZlF4rbIu6R8S5VW2PdiuUpZg9OF22g5cFtXzpl
+#EXTINF:0 tvg-name="ch363"  tvg-logo="http://tv.team/images/chIcons/363.png"  timeshift="2", Первый +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch363/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPK1yGW0HhWDlMsI0abg7Jkq2k2CkjEi9W7lFu29G69a
+#EXTINF:0 tvg-name="ch364"  tvg-logo="http://tv.team/images/chIcons/364.png"  timeshift="2", Первый +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch364/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBdL-0TuQbLdfo6w7BlX6MJrMEgVBlcTr7bPkaNCZV6f
+#EXTINF:0 tvg-name="ch386"  tvg-logo="http://tv.team/images/chIcons/386.png"  timeshift="2", Первый +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch386/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLyI0K1EKsrAEKV9pbLHwgKqIg72qbV8Oafh-X2x5ZY3
+#EXTINF:0 tvg-name="ch635"  tvg-logo="http://tv.team/images/chIcons/635.png"  timeshift="2", Первый HD +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch635/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN6x2lSGScBLVawIa8EaBZpNRRzh0jiU604XfCO6Lhhe
+#EXTINF:0 tvg-name="ch002"  tvg-logo="http://tv.team/images/chIcons/2.png"  timeshift="6", Россия 1 HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch002/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdF0L41-J3dMfV3BP3FMgLfaic8KFFq6c38cuaatomrHI
+#EXTINF:0 tvg-name="ch853"  tvg-logo="http://tv.team/images/chIcons/853.png"  timeshift="6", Россия 1 HD (Uncomp)
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch853/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNSEhR8iIv2fLQ89IbsfSdnw0FEtMjYkS1MHCpWexm-K
+#EXTINF:0 tvg-name="ch1644"  tvg-logo="http://tv.team/images/chIcons/1644.png"  timeshift="6", Россия 1
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch1644/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFfPHMumuufhXaMkcSWmG55XBxk8JQ9jl7Z-R_TS7els
+#EXTINF:0 tvg-name="ch365"  tvg-logo="http://tv.team/images/chIcons/365.png"  timeshift="2", Россия 1 +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch365/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLwr5s_L4bmbV_I-Ub_LmpqEITgzqQn2ffLIbqBc98zb
+#EXTINF:0 tvg-name="ch366"  tvg-logo="http://tv.team/images/chIcons/366.png"  timeshift="2", Россия 1 +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch366/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHaFcLyYfTgwgxiwqyTVP26WVqHpHSPtAMfAHKNlHXRF
+#EXTINF:0 tvg-name="ch388"  tvg-logo="http://tv.team/images/chIcons/388.png"  timeshift="2", Россия 1 +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch388/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM9vbz7-WHH1PD_97XNWwkrIAnTrm3mDabQLc3LXu05r
+#EXTINF:0 tvg-name="ch102"  tvg-logo="http://tv.team/images/chIcons/102.png"  timeshift="6", Россия-Культуpa
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch102/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMP7ZROSAUkcv7KNztMkP322QDJLfH0sdr_bbohWfudC
+#EXTINF:0 tvg-name="ch337"  tvg-logo="http://tv.team/images/chIcons/337.png"  timeshift="6", РТР Планета
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch337/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBwJR9jZGc0LsakwTwOyB5UXRw0Ql-dzh4MBBQnMP6NG
+#EXTINF:0 tvg-name="ch025"  tvg-logo="http://tv.team/images/chIcons/25.png"  timeshift="6", Пятница! HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch025/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIvK3GXBG4bfKYe11P3AIGo9-0OFnsfvzj8mc0TzC0lv
+#EXTINF:0 tvg-name="ch412"  tvg-logo="http://tv.team/images/chIcons/412.png"  timeshift="6", Пятница +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch412/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKKwU-OEk7q-qrNd6Fbb80vt4TN9L75rEP2LDghz35HW
+#EXTINF:0 tvg-name="ch413"  tvg-logo="http://tv.team/images/chIcons/413.png"  timeshift="6", Пятница +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch413/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIaLxs1kuBs7qppGuIOOU9eG37CZ3kkPmdll-YVXzPqS
+#EXTINF:0 tvg-name="ch004"  tvg-logo="http://tv.team/images/chIcons/4.png"  timeshift="6", Рен ТВ HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch004/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBVhXtHV0jmd1YbW1MxRtX_kdBKD8cwjPfbKHiJxKTp4
+#EXTINF:0 tvg-name="ch371"  tvg-logo="http://tv.team/images/chIcons/371.png"  timeshift="6", Рен ТВ +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch371/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIsSrjaZE6L9bx34oeNQHemgx55B5QlQbVi4LsjTjYSs
+#EXTINF:0 tvg-name="ch1059"  tvg-logo="http://tv.team/images/chIcons/1059.png"  timeshift="6", Рен ТВ +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch1059/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdG7pfVBjsNyAovnVP0gjXRz4FO7vHOWsffe3IMZLQKXi
+#EXTINF:0 tvg-name="ch003"  tvg-logo="http://tv.team/images/chIcons/3.png"  timeshift="6", НТВ HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch003/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGiOeLGycE40NqjSkK0DVavBVv0uVl1Cf15aeMWEnzJ-
+#EXTINF:0 tvg-name="ch2453"  tvg-logo="http://tv.team/images/chIcons/2453.png"  timeshift="6", НТВ
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch2453/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHr4zFxJ3DT0kLhTP08vIWnWH-iRx5ksPCrorH41cgWA
+#EXTINF:0 tvg-name="ch367"  tvg-logo="http://tv.team/images/chIcons/367.png"  timeshift="2", НТВ +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch367/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdI9l19oQGKkaSrAPECMj18ESDeBuF_Rxd_FpwIDkw1N5
+#EXTINF:0 tvg-name="ch368"  tvg-logo="http://tv.team/images/chIcons/368.png"  timeshift="2", НТВ +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch368/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAign3fl4xR9pVMoz2kY3k1POfHMdngaAO1YSDOG_yGp
+#EXTINF:0 tvg-name="ch390"  tvg-logo="http://tv.team/images/chIcons/390.png"  timeshift="2", НТВ +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch390/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAB0HPojSWYM-9jNUC00DFKjkIw-AhSR50OXBvY38S0s
+#EXTINF:0 tvg-name="ch021"  tvg-logo="http://tv.team/images/chIcons/21.png"  timeshift="6", СТС HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch021/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFbxj6QSVHVrcEYdXb4bIdVDthEtux_1Icl_S_0W_jZJ
+#EXTINF:0 tvg-name="ch398"  tvg-logo="http://tv.team/images/chIcons/398.png"  timeshift="6", СТС +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch398/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDCLKmYenLX49M2XK4CvX1gIGQ36LY3sFlLJDEmorqLd
+#EXTINF:0 tvg-name="ch399"  tvg-logo="http://tv.team/images/chIcons/399.png"  timeshift="6", СТС +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch399/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA15bqPgz00q1CTyhzi-RDkICyl-mOb-oq-lzs6F7u_x
+#EXTINF:0 tvg-name="ch400"  tvg-logo="http://tv.team/images/chIcons/400.png"  timeshift="6", СТС +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch400/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA-UDf-8BTnQJtK7Xub1-fSdUcZhJz844BGrzasjMzmL
+#EXTINF:0 tvg-name="ch005"  tvg-logo="http://tv.team/images/chIcons/5.png"  timeshift="6", ТНТ HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch005/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEIdNCCYrx17MmTSGVqVgL6xKCMAbEZpMrE68aoyMAS2
+#EXTINF:0 tvg-name="ch369"  tvg-logo="http://tv.team/images/chIcons/369.png"  timeshift="2", ТНТ +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch369/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIIBRckS1K_hsb-10eGk-uV9fxG9P4JZYG-nI4zKgbSN
+#EXTINF:0 tvg-name="ch370"  tvg-logo="http://tv.team/images/chIcons/370.png"  timeshift="2", ТНТ +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch370/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPNZOa7moK-c6hlJDLnm9Dy_BVbWvEnuUx5S2Lu7BZ-Z
+#EXTINF:0 tvg-name="ch397"  tvg-logo="http://tv.team/images/chIcons/397.png"  timeshift="2", ТНТ +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch397/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDnxTemxteJLynG7NgneIKoSPJGonyoWWHR_kjTXiQY1
+#EXTINF:0 tvg-name="ch014"  tvg-logo="http://tv.team/images/chIcons/14.png"  timeshift="6", ТНТ4 HD
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch014/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHsXs1Ei33cN_QEa1ZfaH682yXYu3y2Q72wv8aWzvS0k
+#EXTINF:0 tvg-name="ch423"  tvg-logo="http://tv.team/images/chIcons/423.png"  timeshift="5", ТНТ4 +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch423/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdALZ-mKxcStB6IyWeVWOe2xnlv5267HrS465EGFtqTdd
+#EXTINF:0 tvg-name="ch424"  tvg-logo="http://tv.team/images/chIcons/424.png"  timeshift="6", ТНТ4 +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch424/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK8xmNPbHFQ71sZcJdajUOVZGKNeXTSv1Rjwv97bPYRI
+#EXTINF:0 tvg-name="ch006"  tvg-logo="http://tv.team/images/chIcons/6.png"  timeshift="6", Москва 24
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch006/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFb3PwWJ2o0OKb6BPebasKxz5Ta9lyfOxls8drhWfGJQ
+#EXTINF:0 tvg-name="ch022"  tvg-logo="http://tv.team/images/chIcons/22.png"  timeshift="6", ТВЦ
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch022/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKVVaThtPJ9mufHf5voO3LRpowm1DMbI5x7n5IGASPvA
+#EXTINF:0 tvg-name="ch374"  tvg-logo="http://tv.team/images/chIcons/374.png"  timeshift="6", ТВЦ +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch374/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdATu32UfOojHCkMiCwq6ICGEO9WByNPPNw8NVtUBUs-Y
+#EXTINF:0 tvg-name="ch393"  tvg-logo="http://tv.team/images/chIcons/393.png"  timeshift="6", ТВЦ +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch393/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLyOTbDIkAD70d4U4AeTS5YsH5bd6JjJG5MN9_-kqJUU
+#EXTINF:0 tvg-name="ch023"  tvg-logo="http://tv.team/images/chIcons/23.png"  timeshift="6", Звезда
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch023/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE1AM0v5id-eGGk7jRCnQtDyyAN4BjpCzS21dLFaGvnw
+#EXTINF:0 tvg-name="ch373"  tvg-logo="http://tv.team/images/chIcons/373.png"  timeshift="6", Звезда +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch373/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGSpohJnB21EdrEhggWqtbrOmEVFbnddfzPnWIAsAKt7
+#EXTINF:0 tvg-name="ch406"  tvg-logo="http://tv.team/images/chIcons/406.png"  timeshift="6", Звезда +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch406/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdItDjDbmehEFiHRswPHiJHH2O2jm6WgVvoON1Cz_BDoY
+#EXTINF:0 tvg-name="ch407"  tvg-logo="http://tv.team/images/chIcons/407.png"  timeshift="6", Звезда +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch407/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBzQy2XniVrwTgns0Vk_KpJtCITPjvFLMiDK6WjhLFZZ
+#EXTINF:0 tvg-name="ch724"  tvg-logo="http://tv.team/images/chIcons/724.png"  timeshift="6", Звезда Плюс
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch724/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC3LgVOaPriI899wKUlZpbU96CDchEsCEomgU1XQrKce
+#EXTINF:0 tvg-name="ch066"  tvg-logo="http://tv.team/images/chIcons/66.png"  timeshift="6", Победа
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch066/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIx22HXTL1WdSpKzQsPQUwYUhOSo9s92ck16a4p9LA4U
+#EXTINF:0 tvg-name="ch068"  tvg-logo="http://tv.team/images/chIcons/68.png"  timeshift="6", Пятый Канал
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch068/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOUEUuDHUYZ0C-FrR-N8oc9axDfrnU8y-GMybwFHC293
+#EXTINF:0 tvg-name="ch372"  tvg-logo="http://tv.team/images/chIcons/372.png"  timeshift="6", Пятый Канал +2
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch372/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMeDb6G0zbrykDKT2X4tWmYzzsDtbgxBN3oZgzd6AJrr
+#EXTINF:0 tvg-name="ch395"  tvg-logo="http://tv.team/images/chIcons/395.png"  timeshift="6", Пятый Канал +4
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch395/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMFHAkd5TRQh6nbk3lTrpVZHiSANoOefnZBUzGq0tndM
+#EXTINF:0 tvg-name="ch396"  tvg-logo="http://tv.team/images/chIcons/396.png"  timeshift="6", Пятый Канал +6
+#EXTGRP:1. Federal/Федеральные
+http://1.1usd.tv:34000/ch396/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEjoFQhfCMjGBlVr4a9tnbHJr0ECAXjTOiWWEfV4iWwC
+#EXTINF:0 tvg-name="ch007"  tvg-logo="http://tv.team/images/chIcons/7.png"  timeshift="0", Pоссия 24
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch007/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDcd9ZCwYgesFrGFhHrQvbT9i3RJCJpkW9vBkKAlNsCk
+#EXTINF:0 tvg-name="ch099"  tvg-logo="http://tv.team/images/chIcons/99.png"  timeshift="0", РБК НD
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch099/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKtK-g2PR7b9ZNUMzLocgl0dTtiTi_jcSCa8FTNI9i9J
+#EXTINF:0 tvg-name="ch127"  tvg-logo="http://tv.team/images/chIcons/127.png"  timeshift="0", RT HD
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch127/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLYf22xKX-2jWExA2j2L2tb2VffmBlMWHRBqfds44hKt
+#EXTINF:0 tvg-name="ch088"  tvg-logo="http://tv.team/images/chIcons/88.png"  timeshift="6", Дождь
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch088/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAts99fNTqC-KBAclnuKYUO3g45QvGCD34RoFnltL8_R
+#EXTINF:0 tvg-name="ch510"  tvg-logo="http://tv.team/images/chIcons/510.png"  timeshift="0", Мир 24
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch510/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIw5QjyQB8TWB2AtDts_C-bhAf0dLJtK-lda0z-sMMjo
+#EXTINF:0 tvg-name="ch498"  tvg-logo="http://tv.team/images/chIcons/498.png"  timeshift="1", EuroNews
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch498/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMDiIyEjIJ_ETZi78mjznvO5mg3kMZYCFsZdSWSdPywO
+#EXTINF:0 tvg-name="ch499"  tvg-logo="http://tv.team/images/chIcons/499.png"  timeshift="0", BBC World News Europe
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch499/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPSUaoi3NuOPo297dzyZRamSutLfOo9mDLbc96ECXggc
+#EXTINF:0 tvg-name="ch500"  tvg-logo="http://tv.team/images/chIcons/500.png"  timeshift="0", CNN
+#EXTGRP:2. News/Новости
+http://1.1usd.tv:34000/ch500/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdINqXNaSF9D664U6wmFgMFjQl0pPSmb0TjUBcZqjDZz0
+#EXTINF:0 tvg-name="ch010"  tvg-logo="http://tv.team/images/chIcons/10.png"  timeshift="6", Киносвидание HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch010/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOa_y9MVBmRajYNI1O9UJjWuPGvIhSXw7ioTUqP8gbkQ
+#EXTINF:0 tvg-name="ch054"  tvg-logo="http://tv.team/images/chIcons/54.png"  timeshift="6", Кинопремьера HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch054/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHdbMw6LB6QJK1fw_85Fduqxh1YtnVqgQ0rY1CgWB-31
+#EXTINF:0 tvg-name="ch116"  tvg-logo="http://tv.team/images/chIcons/116.png"  timeshift="6", Родное кино
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch116/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO6rSnhil7h3BRhECY9P0xyWVpoZXshiBqv0O26EZ5lM
+#EXTINF:0 tvg-name="ch461"  tvg-logo="http://tv.team/images/chIcons/461.png"  timeshift="6", Индийское кино
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch461/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBiEGs6w5ts06ZJP5ifmQ76zMLsmrDtX5vzSvAnO7G1v
+#EXTINF:0 tvg-name="ch495"  tvg-logo="http://tv.team/images/chIcons/495.png"  timeshift="6", Start World HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch495/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdG_CcUSYw4bkVCs1RKVvhn8gJ_bDTfSKJNMNDHRcKsOM
+#EXTINF:0 tvg-name="ch058"  tvg-logo="http://tv.team/images/chIcons/58.png"  timeshift="6", Viju+ Comedy HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch058/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPrcRiz0Ik1J9gB15fSI6AGYaj8jiRDefMHidyZJJWBb
+#EXTINF:0 tvg-name="ch060"  tvg-logo="http://tv.team/images/chIcons/60.png"  timeshift="6", Viju+ Premiere HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch060/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNJezJqz9NrSvmlAyYhUsNEqv9hp0YBT9itn2FGlKe8X
+#EXTINF:0 tvg-name="ch059"  tvg-logo="http://tv.team/images/chIcons/59.png"  timeshift="6", Viju+ Megahit HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch059/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOtdDxdn1ILZ_p4BAcsiK7f7zGx4CE1iZ8AuNOOwu8iH
+#EXTINF:0 tvg-name="ch032"  tvg-logo="http://tv.team/images/chIcons/32.png"  timeshift="6", Amedia Hit HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch032/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGPahJ2Alh77NvgkRLR0Wjp_doEZSowowhoOqHEkXiIN
+#EXTINF:0 tvg-name="ch065"  tvg-logo="http://tv.team/images/chIcons/65.png"  timeshift="6", Amedia Premium HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch065/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAq4v-f_DvFpQ8yeDsCZdEggtet8poYnhF5FKGIewqTt
+#EXTINF:0 tvg-name="ch117"  tvg-logo="http://tv.team/images/chIcons/117.png"  timeshift="6", НСТ
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch117/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFdUb9WnFYa3nRmwbsWvgMjasdo_mY1FTv9aDsDk-I4m
+#EXTINF:0 tvg-name="ch072"  tvg-logo="http://tv.team/images/chIcons/72.png"  timeshift="6", Остросюжетное HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch072/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdByTalBMG76lbmcW4MKZYtgtFK4Vva09e66mSKbuJsDu
+#EXTINF:0 tvg-name="ch078"  tvg-logo="http://tv.team/images/chIcons/78.png"  timeshift="6", Дом Кино
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch078/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDg4ArcxQ8O0azv03J18MExcuWPPU0oM3C-S_3CzgqRV
+#EXTINF:0 tvg-name="ch080"  tvg-logo="http://tv.team/images/chIcons/80.png"  timeshift="6", Дом Кино Премиум HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch080/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKL9l4uGEVpBp4G2MMn52ynsie0WJdt5h116pHUou8Lt
+#EXTINF:0 tvg-name="ch033"  tvg-logo="http://tv.team/images/chIcons/33.png"  timeshift="6", ЕвроКино
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch033/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEsE_yUJAuqR8XZAlm_7ipi0qxmePnwcyUGLQmEADO-0
+#EXTINF:0 tvg-name="ch024"  tvg-logo="http://tv.team/images/chIcons/24.png"  timeshift="6", ТВ3
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch024/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNZQpphcKQzso0H3fMDwRUKhPHOluWcvZ4RTbEzZnteE
+#EXTINF:0 tvg-name="ch410"  tvg-logo="http://tv.team/images/chIcons/410.png"  timeshift="0", ТВ 3 +4
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch410/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLsAoNIByA8IelUquSsMih_-sr4stuWTGiqIUQ-hqXyy
+#EXTINF:0 tvg-name="ch110"  tvg-logo="http://tv.team/images/chIcons/110.png"  timeshift="6", Домашний
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch110/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH5eoma2Ya7eMtYfKtfkP1dygpQVV071292ZjcjXZg3L
+#EXTINF:0 tvg-name="ch417"  tvg-logo="http://tv.team/images/chIcons/417.png"  timeshift="0", Домашний +2
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch417/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOgzlnBI7lxj746Sb5op5QvwCq1UQBS0tKeKwjAuUkCH
+#EXTINF:0 tvg-name="ch2027"  tvg-logo="http://tv.team/images/chIcons/2027.png"  timeshift="0", Домашний +4
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch2027/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLywdqvRwkfbi3_DJRMRV7NZCilwkDFb2tnI_dnBDuwo
+#EXTINF:0 tvg-name="ch418"  tvg-logo="http://tv.team/images/chIcons/418.png"  timeshift="0", Домашний +6
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch418/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHbJKiKqcuHri3KmxHwNkgsPNCoB11xEO83UDhLPyMbM
+#EXTINF:0 tvg-name="ch103"  tvg-logo="http://tv.team/images/chIcons/103.png"  timeshift="6", Fox HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch103/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdED42epxKgWTm02rIM3Ig7YK5L1br5blQjYQ4LqfKL4Z
+#EXTINF:0 tvg-name="ch104"  tvg-logo="http://tv.team/images/chIcons/104.png"  timeshift="6", Fox life
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch104/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFaKkV6mSRrJcHNiWhTvJCIREnVzTEeof13iaGKixvl3
+#EXTINF:0 tvg-name="ch098"  tvg-logo="http://tv.team/images/chIcons/98.png"  timeshift="6", Романтичное HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch098/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPDzAFBS3qRqylx0Ongg1ZTM3MtfHtjhLdHTmwYyF791
+#EXTINF:0 tvg-name="ch114"  tvg-logo="http://tv.team/images/chIcons/114.png"  timeshift="6", Иллюзион+
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch114/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJAje_X-xCLwhlLsdV7vWrYCkpHHT50ENWBtmV5NInvJ
+#EXTINF:0 tvg-name="ch115"  tvg-logo="http://tv.team/images/chIcons/115.png"  timeshift="6", Русский бестселлер
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch115/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBOjhgRMBSvSytcGQxdzw3urMlPg2xwWB79i5Q5sabuO
+#EXTINF:0 tvg-name="ch101"  tvg-logo="http://tv.team/images/chIcons/101.png"  timeshift="6", Русский Иллюзион
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch101/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGESCmmjf_Cv7Iwe4NKpofzyIrMFODET_60fwfHhNHCP
+#EXTINF:0 tvg-name="ch132"  tvg-logo="http://tv.team/images/chIcons/132.png"  timeshift="6", Русский роман
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch132/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBKo-ZS_ZfBbpP7ZsL3aPxn1_EaZ1wRXFLq_IU8Qj_dz
+#EXTINF:0 tvg-name="ch105"  tvg-logo="http://tv.team/images/chIcons/105.png"  timeshift="6", Комедия
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch105/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJi1kn6pn_66n_cz-HsbCGvjvjPIwA3lEm_ImjXWeqRL
+#EXTINF:0 tvg-name="ch134"  tvg-logo="http://tv.team/images/chIcons/134.png"  timeshift="6", Шокирующее HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch134/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFQIbO2zH6c9hUuN2jbSG39kW2z3-FNMvh8Ko1LsuCOr
+#EXTINF:0 tvg-name="ch131"  tvg-logo="http://tv.team/images/chIcons/131.png"  timeshift="6", Наше HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch131/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGKLh-XNUwjasOxg2x9V_otoh8o9BOv4zhlBUSuHMVRG
+#EXTINF:0 tvg-name="ch139"  tvg-logo="http://tv.team/images/chIcons/139.png"  timeshift="6", Наше любимое HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch139/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdATe5BwN55_8aKm7wWTxlf8hveOY7pxy7JWC29lC2jek
+#EXTINF:0 tvg-name="ch140"  tvg-logo="http://tv.team/images/chIcons/140.png"  timeshift="6", Душевное HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch140/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJC5XEAk9uFFwQqiK8cxNiiSuGXOxCudxBydiSnV-yEs
+#EXTINF:0 tvg-name="ch070"  tvg-logo="http://tv.team/images/chIcons/70.png"  timeshift="6", .Red HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch070/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDVjs_QwiJYAkgFx8ntg-abLjC1gTJwIk0DffBzcM0GZ
+#EXTINF:0 tvg-name="ch508"  tvg-logo="http://tv.team/images/chIcons/508.png"  timeshift="6", Ретро
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM8AhSgvr1IJw8jEkjpsoaPqkyJ06zPeA-et3fOmwzJ5
+#EXTINF:0 tvg-name="ch525"  tvg-logo="http://tv.team/images/chIcons/525.png"  timeshift="6", Hollywood HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch525/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKRYOYYMWZ8gTl2tJ_9A8SzAuwVQzuR4x0NQf-QR6poq
+#EXTINF:0 tvg-name="ch535"  tvg-logo="http://tv.team/images/chIcons/535.png"  timeshift="6", Дорама HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch535/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAxqAejduXSMKcKkNlqh4LAmQGVbUemAIBm6dDagLuYc
+#EXTINF:0 tvg-name="ch712"  tvg-logo="http://tv.team/images/chIcons/712.png"  timeshift="6", Shot
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch712/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOnhFAa3SvcOR7ntwpj7m3b_EQ5NnlhOAE8XRbeXmRxK
+#EXTINF:0 tvg-name="ch2069"  tvg-logo="http://tv.team/images/chIcons/2069.png"  timeshift="6", Kinoliving
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch2069/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK-BgWxCwYn8S82WR1rfmgMzlj7zGvEwUjOA2B3isz5L
+#EXTINF:0 tvg-name="ch1116"  tvg-logo="http://tv.team/images/chIcons/1116.png"  timeshift="0", C More Hits HD
+#EXTGRP:3. Movies/Кино
+http://1.1usd.tv:34000/ch1116/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLXLqeVUcTcIPI0T57656q_eWM2Qn-cnIqVuLTIZrE7N
+#EXTINF:0 tvg-name="ch311"  tvg-logo="http://tv.team/images/chIcons/311.png"  timeshift="3", BCU Marvel HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://1.1usd.tv:34000/ch311/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMX0zujcergd0AfJE8whlUZ-id3c8L7WxpoIDxGYwslh
+#EXTINF:0 tvg-name="ch1069"  tvg-logo="http://tv.team/images/chIcons/1069.png"  timeshift="0", TOP 80
+#EXTGRP:4. Cinemas/Кинозалы
+http://1.1usd.tv:34000/ch1069/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJxApLnuHc2n53IqE8azyHMv1lGtmKciXNsDxp1JU27g
+#EXTINF:0 tvg-name="ch1068"  tvg-logo="http://tv.team/images/chIcons/1068.png"  timeshift="0", TOP Великолепный Век
+#EXTGRP:4. Cinemas/Кинозалы
+http://1.1usd.tv:34000/ch1068/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKfTE-6mdjfzC5419LelxwIXAAwVTxL54JXXbR3NNOB7
+#EXTINF:0 tvg-name="ch1070"  tvg-logo="http://tv.team/images/chIcons/1070.png"  timeshift="0", TOP BUDO HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://1.1usd.tv:34000/ch1070/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGTPHwIaWk35gBHOrs9wSpGbIGl6GEi10tzotVyQEwSb
+#EXTINF:0 tvg-name="ch1071"  tvg-logo="http://tv.team/images/chIcons/1071.png"  timeshift="0", TOP CINEMA HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://1.1usd.tv:34000/ch1071/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLwOZcWtjUNs5axlp3B9YAb7EkuHnX3xni7PgJ81arXC
+#EXTINF:0 tvg-name="ch1072"  tvg-logo="http://tv.team/images/chIcons/1072.png"  timeshift="0", TOP USSR
+#EXTGRP:4. Cinemas/Кинозалы
+http://1.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB1cFqODqZGfOiWpuNTKv6BEjFIfZNqh075aUj1G6j0l
+#EXTINF:0 tvg-name="ch1073"  tvg-logo="http://tv.team/images/chIcons/1073.png"  timeshift="0", TOP MIX HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://1.1usd.tv:34000/ch1073/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKp0UUEZJ17yTkkvmT4jpuTD4oNPhVmo1ZujL8mpbbtq
+#EXTINF:0 tvg-name="ch045"  tvg-logo="http://tv.team/images/chIcons/45.png"  timeshift="3", Мульт HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch045/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJaPcUzM8Jq_j3nr6GHmOGLdEvaxBWTd5vjVQQB24UlN
+#EXTINF:0 tvg-name="ch081"  tvg-logo="http://tv.team/images/chIcons/81.png"  timeshift="6", Cartoon Network
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch081/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCltUJgIFmCxTAt4j4eJMRTGpK9gG1VZi9dND0ljQ_mz
+#EXTINF:0 tvg-name="ch041"  tvg-logo="http://tv.team/images/chIcons/41.png"  timeshift="6", Солнце
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch041/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIDdxV22pYPcs2CA7fnnfDy5njyykzrl4cVf7O9-Ft4K
+#EXTINF:0 tvg-name="ch042"  tvg-logo="http://tv.team/images/chIcons/42.png"  timeshift="6", TiJi
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch042/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCcQLTe0uWb0aFT24yv-Q1AcM7zS0Bu4qGOnmkEwJzTE
+#EXTINF:0 tvg-name="ch043"  tvg-logo="http://tv.team/images/chIcons/43.png"  timeshift="6", Gulli Girl
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch043/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMFwtlXAW_OELHzfszyLSK90fsDCA1qFLiiX76iU6phL
+#EXTINF:0 tvg-name="ch044"  tvg-logo="http://tv.team/images/chIcons/44.png"  timeshift="6", Детский мир
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch044/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFD_pGHSogBVYpwTILP_3pYmTRVMJt-EYbi2GK5-melb
+#EXTINF:0 tvg-name="ch082"  tvg-logo="http://tv.team/images/chIcons/82.png"  timeshift="6", Мама
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch082/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKyJLGRXS5NI5gkOw6uZ6TVk270sifoEAraRzuy7fDco
+#EXTINF:0 tvg-name="ch119"  tvg-logo="http://tv.team/images/chIcons/119.png"  timeshift="6", В гостях у сказки
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch119/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCZ0b3LEwF9-INQ9DtT7Tc3alqnruLwm8VDUMDpuBsV0
+#EXTINF:0 tvg-name="ch479"  tvg-logo="http://tv.team/images/chIcons/479.png"  timeshift="6", Nickelodeon HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch479/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEac4j99RQ2dyKBgeMl8N1HKseAwP5fLsjvXroDmcQRH
+#EXTINF:0 tvg-name="ch379"  tvg-logo="http://tv.team/images/chIcons/379.png"  timeshift="6", Nick Jr
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch379/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLN5qx5CIpTZqY5-pY_p1ucmkXn9v6At0LcToBUp3_S7
+#EXTINF:0 tvg-name="ch478"  tvg-logo="http://tv.team/images/chIcons/478.png"  timeshift="6", Уникум HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch478/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKq-fKiiY7lUOHq9qwOPyYXVGiZpSQi4GGqvCK2K1QVH
+#EXTINF:0 tvg-name="ch040"  tvg-logo="http://tv.team/images/chIcons/40.png"  timeshift="6", Карусель
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch040/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdETY3c73q84uyxQjNwzp0Kwz5pNX6hU1SjdG-XtKMQn4
+#EXTINF:0 tvg-name="ch480"  tvg-logo="http://tv.team/images/chIcons/480.png"  timeshift="6", Карусель +2
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch480/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLYbToldK9EqXEXao5tC2vdY4dQgkbgNS3eV8_oYcTEO
+#EXTINF:0 tvg-name="ch481"  tvg-logo="http://tv.team/images/chIcons/481.png"  timeshift="6", Карусель +4
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch481/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAUk8y1SGGZweEp8nXP-Bye5c2_cwAWqGv_8a5N-KMrp
+#EXTINF:0 tvg-name="ch482"  tvg-logo="http://tv.team/images/chIcons/482.png"  timeshift="6", Карусель +6
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch482/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNGn-FhgiQcAOvC7oOUMND5dKKw_IvFlg3uDobgYmg3-
+#EXTINF:0 tvg-name="ch483"  tvg-logo="http://tv.team/images/chIcons/483.png"  timeshift="6", СТС Kids HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch483/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIJjU_m0IKF2za3cImIF_ShhqKF5eyVUPZoFix3aV5AU
+#EXTINF:0 tvg-name="ch484"  tvg-logo="http://tv.team/images/chIcons/484.png"  timeshift="6", Мультимузыка
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch484/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHoORQKsoM2sKfGp9Iv0pDl11rKg07Qmyr4Lsj1Ah2ZA
+#EXTINF:0 tvg-name="ch485"  tvg-logo="http://tv.team/images/chIcons/485.png"  timeshift="6", JimJam
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch485/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE0gArlXfkz7SGlx0UTjEdq5gBLUGqFXC4BMz3XwVpzS
+#EXTINF:0 tvg-name="ch486"  tvg-logo="http://tv.team/images/chIcons/486.png"  timeshift="6", Cartoonito
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch486/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJQ-sTr0BNB2oe5R76T0F5zm_SemYwALadanva-8C5jC
+#EXTINF:0 tvg-name="ch487"  tvg-logo="http://tv.team/images/chIcons/487.png"  timeshift="6", Радость Моя
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch487/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIlCJ8uOymXf9DnrY7SFRY5aL961k6J6LxhhQ3x6tsaw
+#EXTINF:0 tvg-name="ch488"  tvg-logo="http://tv.team/images/chIcons/488.png"  timeshift="6", Ani
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch488/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJLalI24mYTRXYXKeazHUHda4GFXmX0tb4qmuTmCcT3f
+#EXTINF:0 tvg-name="ch489"  tvg-logo="http://tv.team/images/chIcons/489.png"  timeshift="6", Baby TV
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch489/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNY-B_rnRyajuO-AdwKOGREpOcSsJa_bUN-38Xge8NZX
+#EXTINF:0 tvg-name="ch617"  tvg-logo="http://tv.team/images/chIcons/617.png"  timeshift="6", Супергерои
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch617/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFApC8go73-djU0I_glTgr91pM4jcSlzhd2XTkFanS63
+#EXTINF:0 tvg-name="ch618"  tvg-logo="http://tv.team/images/chIcons/618.png"  timeshift="6", Рыжий
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch618/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdG2X7pQxbMC6S-aReWEBHRkvKSe_OY8dC9lRDsQLex0o
+#EXTINF:0 tvg-name="ch634"  tvg-logo="http://tv.team/images/chIcons/634.png"  timeshift="6", Мультиландия
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch634/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdATxv4jEOWNKmERkagePiNx8utKMYoiVtdUVyxFC2jDN
+#EXTINF:0 tvg-name="ch638"  tvg-logo="http://tv.team/images/chIcons/638.png"  timeshift="6", Капитан Фантастика HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch638/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE4CVAwh1C3jE-59rvf2tGZQOVc1_ABd1oL-Xzy-g-o6
+#EXTINF:0 tvg-name="ch707"  tvg-logo="http://tv.team/images/chIcons/707.png"  timeshift="6", Duck HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch707/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKsvWViodV3KyHJoX1x87ZcsQeFj08E_Fr-0uu3Is441
+#EXTINF:0 tvg-name="ch425"  tvg-logo="http://tv.team/images/chIcons/425.png"  timeshift="3", Чижик
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch425/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdI-3Q31jfxygQUp7LzmwrVH3zSau-3fkYiEPYX0GoM5m
+#EXTINF:0 tvg-name="ch786"  tvg-logo="http://tv.team/images/chIcons/786.png"  timeshift="3", BCU Kids HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch786/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJdt2XN_Wl5TPqUszZZf4a2cPCgxkZ4bhiIgs5j-zd5d
+#EXTINF:0 tvg-name="ch787"  tvg-logo="http://tv.team/images/chIcons/787.png"  timeshift="3", BCU Мультсериал HD
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch787/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH94-l1UDT50kf6PDADx65Gpz2X7bO3Ekrik8KeQydlc
+#EXTINF:0 tvg-name="ch1027"  tvg-logo="http://tv.team/images/chIcons/1027.png"  timeshift="6", Cartoons 90
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch1027/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLoDliMjLPhCpmKk-XbMMd8Z_lctcw2AFGdemRsLlOvj
+#EXTINF:0 tvg-name="ch1028"  tvg-logo="http://tv.team/images/chIcons/1028.png"  timeshift="6", Cartoons Short
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch1028/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEN0UJWwrr5BuJjJlOdklRqtNdJZFlDl0fwUwMMadMgC
+#EXTINF:0 tvg-name="ch1029"  tvg-logo="http://tv.team/images/chIcons/1029.png"  timeshift="6", Cartoons Big
+#EXTGRP:7. Kids/Детские
+http://1.1usd.tv:34000/ch1029/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOMQirnuv3S5EEOdhFiC2pLqPYVYhrRGvkqwMssox_VQ
+#EXTINF:0 tvg-name="ch138"  tvg-logo="http://tv.team/images/chIcons/138.png"  timeshift="3", КХЛ Prime HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch138/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNH0GSufe0AfFX7F0X9L1wU_OLY3uINvHaUkozzIfJzg
+#EXTINF:0 tvg-name="ch034"  tvg-logo="http://tv.team/images/chIcons/34.png"  timeshift="3", КХЛ HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch034/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCK7fNWAzIwsoq1Qc9dMs0uobjcbOeMrV63MIRYUI7Lu
+#EXTINF:0 tvg-name="ch037"  tvg-logo="http://tv.team/images/chIcons/37.png"  timeshift="3", БОКС ТВ
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch037/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKYiJW2nyjI7qBYz-Q4gQtvyDOtd2bmcN66MHid1rvkW
+#EXTINF:0 tvg-name="ch039"  tvg-logo="http://tv.team/images/chIcons/39.png"  timeshift="3", Eurosport 1 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch039/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMg8ns-8sYDUShW5lw4FXEXiLYyNHprJdvdn-q8ZZOEq
+#EXTINF:0 tvg-name="ch071"  tvg-logo="http://tv.team/images/chIcons/71.png"  timeshift="3", Eurosport 2 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch071/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPDIl1OJ2W32G7qmIl6HxI4bL-s6BMpTPZezBe5tiznH
+#EXTINF:0 tvg-name="ch048"  tvg-logo="http://tv.team/images/chIcons/48.png"  timeshift="3", Точка отрыва
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch048/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEp6wHTpOENI7luniv53UE8ONFNGqJhpeBKMmlNt3CAz
+#EXTINF:0 tvg-name="ch036"  tvg-logo="http://tv.team/images/chIcons/36.png"  timeshift="3", МАТЧ! БОЕЦ
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch036/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdG7GpqV_b6u4-za6mhzG_FZLGKR8uxUlBGufbY13JRY4
+#EXTINF:0 tvg-name="ch057"  tvg-logo="http://tv.team/images/chIcons/57.png"  timeshift="3", Матч! FHD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch057/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH9uNu1wIDk_LoNSjxeXvrptp9zobvNqfrWootkOQ6LU
+#EXTINF:0 tvg-name="ch2126"  tvg-logo="http://tv.team/images/chIcons/2126.png"  timeshift="1", Матч! SD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch2126/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBGSXkd8zOsBM01FwFya07NktyQYhtrsHEb9UFiE0MZx
+#EXTINF:0 tvg-name="ch061"  tvg-logo="http://tv.team/images/chIcons/61.png"  timeshift="3", Матч! Футбол 1 FHD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch061/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOeh54K-PbSLTfUdSc9eIKGnMDUq2naGKWQnBsrX97uT
+#EXTINF:0 tvg-name="ch2123"  tvg-logo="http://tv.team/images/chIcons/2123.png"  timeshift="3", Матч! Футбол 1 SD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch2123/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFpNUWVAzBlC-e-7PGLEwQNWmUEq5G2JAReNrv6L1FcO
+#EXTINF:0 tvg-name="ch062"  tvg-logo="http://tv.team/images/chIcons/62.png"  timeshift="3", Матч! Футбол 2 FHD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch062/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdETGvU8H_BglPFYm0MxW_tsTgWLZGeSTgzZUxMGuG7_2
+#EXTINF:0 tvg-name="ch2124"  tvg-logo="http://tv.team/images/chIcons/2124.png"  timeshift="3", Матч! Футбол 2 SD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch2124/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM_CGIoP33v2ABqI4xnSaRKBnXuoGHm4aCx2eLdjswUU
+#EXTINF:0 tvg-name="ch063"  tvg-logo="http://tv.team/images/chIcons/63.png"  timeshift="3", Матч! Футбол 3 FHD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch063/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA0dg4OOYY8vNvcSL8TqwOEh2tlj5mgwmj9fLF7aA2dO
+#EXTINF:0 tvg-name="ch2125"  tvg-logo="http://tv.team/images/chIcons/2125.png"  timeshift="3", Матч! Футбол 3 SD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch2125/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD5My3rhMY5ChxsE5C_BDFHh8HNSF4o_0vK5y7qskExT
+#EXTINF:0 tvg-name="ch135"  tvg-logo="http://tv.team/images/chIcons/135.png"  timeshift="6", Матч! Премьер FHD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch135/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPuLikBczkfpfsYaI_xZ2hjAm5reTbRd_HrRmDzR6y-f
+#EXTINF:0 tvg-name="ch2005"  tvg-logo="http://tv.team/images/chIcons/2005.png"  timeshift="0", Матч! Премьер SD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch2005/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD0FIy_eSDJHqWSB6MUttoWNG_BRzGcm8wqA88uURVRk
+#EXTINF:0 tvg-name="ch056"  tvg-logo="http://tv.team/images/chIcons/56.png"  timeshift="3", Матч! Игра FHD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch056/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHEIT0VxayUKVj8uDzzmOCaW0ixTQU0scaYZ84NVSJyf
+#EXTINF:0 tvg-name="ch055"  tvg-logo="http://tv.team/images/chIcons/55.png"  timeshift="3", Матч! Арена HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch055/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPkM2qq58BKNkQB3dnDPpy2InFHBU0Ne0coH_UOUaeJb
+#EXTINF:0 tvg-name="ch064"  tvg-logo="http://tv.team/images/chIcons/64.png"  timeshift="0", Viju+ Sport
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch064/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHP7guZ7Y_P_pg8Y8MhEj8tY8prkstO2oSR3zs9G_q5E
+#EXTINF:0 tvg-name="ch133"  tvg-logo="http://tv.team/images/chIcons/133.png"  timeshift="3", Конный Мир HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch133/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDLe4TA29EUFVVwWDz1vVEndUKwcc4xzc8pSlaZeLmgd
+#EXTINF:0 tvg-name="ch549"  tvg-logo="http://tv.team/images/chIcons/549.png"  timeshift="3", UDAR TV HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch549/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKxanF5cUFAjDVwywTJeMifQ7JB7lLNxFFephSUu_L9r
+#EXTINF:0 tvg-name="ch227"  tvg-logo="http://tv.team/images/chIcons/227.png"  timeshift="0", AR: Bein Sports 1 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-e_dVxKO5QNDHfSts5KNQgl
+#EXTINF:0 tvg-name="ch228"  tvg-logo="http://tv.team/images/chIcons/228.png"  timeshift="0", AR: Bein Sports 2 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch228/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK3GRXOTHML-Uv1NwEUyh0s0DCeW_ZIM0WtCFbixDq0z
+#EXTINF:0 tvg-name="ch229"  tvg-logo="http://tv.team/images/chIcons/229.png"  timeshift="0", AR: Bein Sports 3 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
+#EXTINF:0 tvg-name="ch230"  tvg-logo="http://tv.team/images/chIcons/230.png"  timeshift="0", AR: Bein Sports 4 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch230/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK4DU8pTR06fZiJPOT1fp6jf_sUJhcs41DzYO2LOb5t3
+#EXTINF:0 tvg-name="ch231"  tvg-logo="http://tv.team/images/chIcons/231.png"  timeshift="0", AR: Bein Sports 5 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch231/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIkx0UtxtRbYgnb6ugLb14XmJdLwvJQhCqPAVvATutK3
+#EXTINF:0 tvg-name="ch232"  tvg-logo="http://tv.team/images/chIcons/232.png"  timeshift="0", AR: Bein Sports 6 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch232/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBblXvY1eHekJBttVX-GhOMnS7_N09PQyNEgP0ZJaHaa
+#EXTINF:0 tvg-name="ch1114"  tvg-logo="http://tv.team/images/chIcons/1114.png"  timeshift="0", SE: TV4 Fotboll HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch1114/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP1blDCRj2-gG5HPukG8flfJI-KYOrUiEGODIQLFGKvP
+#EXTINF:0 tvg-name="ch1115"  tvg-logo="http://tv.team/images/chIcons/1115.png"  timeshift="0", SE: C More Golf HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch1115/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJHTCY9GnuWrf__ai8TsMPNGbmXVYQZUzq96xu0hNFu-
+#EXTINF:0 tvg-name="ch144"  tvg-logo="http://tv.team/images/chIcons/144.png"  timeshift="0", FI: C More Max HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch144/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHX_CLx4W4qGx9mBfNgc4ha3eupVnxBd63NfLYXWZJWc
+#EXTINF:0 tvg-name="ch1103"  tvg-logo="http://tv.team/images/chIcons/1103.png"  timeshift="0", FI: MTV Urheilu 1 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch1103/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLmjkBUwCAElubkHGTOP9lwsA7Y14v3kqclwa-cFZhmQ
+#EXTINF:0 tvg-name="ch1090"  tvg-logo="http://tv.team/images/chIcons/1090.png"  timeshift="0", FI: MTV Urheilu 2 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch1090/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLKz4G1kFdcYCTV7uf3QC3dlkp-RS02wJ17RXFM3EaQZ
+#EXTINF:0 tvg-name="ch1098"  tvg-logo="http://tv.team/images/chIcons/1098.png"  timeshift="0", AL: Tring Sport 1 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch1098/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKeigdyLke0EK9fewKx8F3heI2qCtpCQFB6CNNOD7rjj
+#EXTINF:0 tvg-name="ch1099"  tvg-logo="http://tv.team/images/chIcons/1099.png"  timeshift="0", AL: Tring Sport 2 HD
+#EXTGRP:8. Sport/Спорт
+http://1.1usd.tv:34000/ch1099/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPYVv5WZd6Jxu6PLRicJVOpvpbLWjheFHQDEEldwZnYk
+#EXTINF:0 tvg-name="ch031"  tvg-logo="http://tv.team/images/chIcons/31.png"  timeshift="0", MTV Club
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch031/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAfqwzGa1HLgmRSvVFOMv_MFX0dM3iLoKUuql-hjge7L
+#EXTINF:0 tvg-name="ch019"  tvg-logo="http://tv.team/images/chIcons/19.png"  timeshift="0", MTV Hits
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch019/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPYJWg5-XvGV1grldK-u_7Z6TNIJd95AgbvPjxHfe8BQ
+#EXTINF:0 tvg-name="ch029"  tvg-logo="http://tv.team/images/chIcons/29.png"  timeshift="0", MTV 80s
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch029/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA9XWTX9e5rRdlUukUtuFyNSyeF_wj2-aNnW-E8ezTLz
+#EXTINF:0 tvg-name="ch594"  tvg-logo="http://tv.team/images/chIcons/594.png"  timeshift="0", MTV 90s
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch594/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOJ1TTy0nsou45BgAe3YrzvMdlZ-UcQcGIIHq4xuegK4
+#EXTINF:0 tvg-name="ch028"  tvg-logo="http://tv.team/images/chIcons/28.png"  timeshift="0", MTV 00s
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch028/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPpeQ3MaiLvrci6OoYQUXgOmik4LkdiSuWSps_qgZs6v
+#EXTINF:0 tvg-name="ch020"  tvg-logo="http://tv.team/images/chIcons/20.png"  timeshift="0", МУЗ
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch020/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU1jegGHugK1OT29ESTMBnzkemGWQjdgvWC1hSzn51r
+#EXTINF:0 tvg-name="ch027"  tvg-logo="http://tv.team/images/chIcons/27.png"  timeshift="0", RU.TV
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch027/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGdZ-lvrAOO47231ou6aMrUSG0QQNvRFdw7t27ipIorz
+#EXTINF:0 tvg-name="ch490"  tvg-logo="http://tv.team/images/chIcons/490.png"  timeshift="0", Bridge TV
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch490/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIAZZioG9UH3FOwxWTnsFMU-G_QI3RCfW1mZrrjoRWbK
+#EXTINF:0 tvg-name="ch493"  tvg-logo="http://tv.team/images/chIcons/493.png"  timeshift="0", Bridge TV Hits
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch493/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJuDl9InblMT_Gv-WsrWpgv-3wKdDvkOYD88BFCwuGp0
+#EXTINF:0 tvg-name="ch130"  tvg-logo="http://tv.team/images/chIcons/130.png"  timeshift="0", Mezzo Live HD
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch130/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdESSUYzQJQPed_dniGPnWMVFbskb_3vVnP-UgQXyMfLP
+#EXTINF:0 tvg-name="ch523"  tvg-logo="http://tv.team/images/chIcons/523.png"  timeshift="0", Ля-минор
+#EXTGRP:9. Music/Музыка
+http://1.1usd.tv:34000/ch523/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDS1r3Km8GB04MZEy_bTEtXNccBItr-nZykRRE0QR4KA
+#EXTINF:0 tvg-name="ch126"  tvg-logo="http://tv.team/images/chIcons/126.png"  timeshift="3", Viju History `HD
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch126/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCtlKAH3hmYRJ7lLFuT5Q4e7G1qqw0hCxB-xygFbMAay
+#EXTINF:0 tvg-name="ch073"  tvg-logo="http://tv.team/images/chIcons/73.png"  timeshift="3", Наука 2.0
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch073/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA2P1kduPFTd0CZ7DMKIEb-p2OOmsKgiYahoqURhpW8d
+#EXTINF:0 tvg-name="ch123"  tvg-logo="http://tv.team/images/chIcons/123.png"  timeshift="3", Discovery Channel HD
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch123/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJpro5_S8jWEsLyx-1odSQ6bQig7tKUkZkf2a1X6XoWz
+#EXTINF:0 tvg-name="ch125"  tvg-logo="http://tv.team/images/chIcons/125.png"  timeshift="3", National Geographic HD
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch125/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdITWtzUjEbuPx8v3lTroP_2ZSGzLMg_XAKaqO1eoltPD
+#EXTINF:0 tvg-name="ch142"  tvg-logo="http://tv.team/images/chIcons/142.png"  timeshift="3", Моя Планета HD
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch142/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL65O8dbpXZEDO0vcGn7ONGLGlVZkNVSVpw6SCQ-hNp2
+#EXTINF:0 tvg-name="ch143"  tvg-logo="http://tv.team/images/chIcons/143.png"  timeshift="0", Приключения HD
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch143/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGtT9ijpoD3IegxWB12uak-e9-LfCWnaApD39559C2yC
+#EXTINF:0 tvg-name="ch148"  tvg-logo="http://tv.team/images/chIcons/148.png"  timeshift="3", Тайны Галактики HD
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch148/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIalNAgsBL8Rez28Lpf1qYXT0Zota4e9qkvjWIUk8nqe
+#EXTINF:0 tvg-name="ch520"  tvg-logo="http://tv.team/images/chIcons/520.png"  timeshift="0", Пёс и Ко
+#EXTGRP:10. Educational/Образование
+http://1.1usd.tv:34000/ch520/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJDZ1dkLSAGsJwzyYP1OjkvDbichUwCBlALs5Jt5fs7D
+#EXTINF:0 tvg-name="ch012"  tvg-logo="http://tv.team/images/chIcons/12.png"  timeshift="3", Viju Nature HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch012/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM-6QDG1bBMRLmtxueFk5sqyvE9VSCrXomwBP9Y2XcPp
+#EXTINF:0 tvg-name="ch2454"  tvg-logo="http://tv.team/images/chIcons/2454.png"  timeshift="3", Viju+ Planet HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch2454/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBGg807gadoTQm1NVVsABapUFbGQfv0Nl5zepGMUn5uj
+#EXTINF:0 tvg-name="ch1916"  tvg-logo="http://tv.team/images/chIcons/1916.png"  timeshift="0", Big Planet
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch1916/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHUyRULlHaE9TroteuhmLs2OMloaBbPqxdEzy-xZTrJ5
+#EXTINF:0 tvg-name="ch504"  tvg-logo="http://tv.team/images/chIcons/504.png"  timeshift="0", Усадьба
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch504/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGMao_E3ajhQdbDlzwgJ8rt5lBFyH1T_Jd0Cswy_NRGr
+#EXTINF:0 tvg-name="ch047"  tvg-logo="http://tv.team/images/chIcons/47.png"  timeshift="3", Nat Geo Wild HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch047/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHzBAqKe9g7JHQ6-WwN9gH7jCTadvWbdjagYDO7jKagX
+#EXTINF:0 tvg-name="ch067"  tvg-logo="http://tv.team/images/chIcons/67.png"  timeshift="0", Диалоги о рыбалке
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch067/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFWljnar-3rgnKRvxc6RlUnjoZY41nXIMroebzSrGKEN
+#EXTINF:0 tvg-name="ch069"  tvg-logo="http://tv.team/images/chIcons/69.png"  timeshift="0", Дикий
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch069/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHJtpjwi1ZlR6scWuuPlJ7TvVfod59XJ9idbUord0lQx
+#EXTINF:0 tvg-name="ch085"  tvg-logo="http://tv.team/images/chIcons/85.png"  timeshift="0", Охотник и рыболов HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch085/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJWDQhEr447FiIRJywcMEg381rNkAFD2K-kjSCBFqvRY
+#EXTINF:0 tvg-name="ch124"  tvg-logo="http://tv.team/images/chIcons/124.png"  timeshift="3", Animal Planet HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch124/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdECzxY1ZcGa281AvugJwbbjAgy7_mbyM33JdWa3d6Dl1
+#EXTINF:0 tvg-name="ch141"  tvg-logo="http://tv.team/images/chIcons/141.png"  timeshift="3", В мире животных HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch141/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNpou3lX3wbWcd9mUyiqqrVfNnMh9M5jmOEcBB7wf7_e
+#EXTINF:0 tvg-name="ch1271"  tvg-logo="http://tv.team/images/chIcons/1271.png"  timeshift="0", MM Live Planet HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch1271/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA1OdpYhBkksARkdlF6n--tYoVj2cPQKVhwXKV42MBLr
+#EXTINF:0 tvg-name="ch1585"  tvg-logo="http://tv.team/images/chIcons/1585.png"  timeshift="3", MM Микромир HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch1585/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDzZw5VN4rgO0BW1KSMqUnT5Hk_Raa4BJnYzTBvTnIx-
+#EXTINF:0 tvg-name="ch1586"  tvg-logo="http://tv.team/images/chIcons/1586.png"  timeshift="3", MM Макромир HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch1586/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCtI76rzyRtTBQLxTFN1ebcrtndnhMp5wbh4nYja-K-f
+#EXTINF:0 tvg-name="ch1587"  tvg-logo="http://tv.team/images/chIcons/1587.png"  timeshift="3", MM Мегамир HD
+#EXTGRP:11. Nature/Природа
+http://1.1usd.tv:34000/ch1587/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD9M54xo7nJSgjePcgJ3aK1GfvPu21M_lwCEI9cAqR_t
+#EXTINF:0 tvg-name="ch011"  tvg-logo="http://tv.team/images/chIcons/11.png"  timeshift="3", Viju Explore HD
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch011/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKLg_R65zRGhbS5TTQT8N0HaHq2mU72-_Qt49-HrkEaV
+#EXTINF:0 tvg-name="ch016"  tvg-logo="http://tv.team/images/chIcons/16.png"  timeshift="0", АВТО 24
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch016/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCf0Td-LE2YRDjkVuHStVj90JqdwTQgRFASGljGkJdL8
+#EXTINF:0 tvg-name="ch026"  tvg-logo="http://tv.team/images/chIcons/26.png"  timeshift="0", Сарафан
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch026/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKVxnLd2v_ac14JTkO_BU2BoaHWolo-7rkWZLulUmY3R
+#EXTINF:0 tvg-name="ch046"  tvg-logo="http://tv.team/images/chIcons/46.png"  timeshift="0", Кухня ТВ
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch046/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNZqVoHXEB0BmWRjJ-03OKUJCuTLYHyUXYsG3xrx0_tF
+#EXTINF:0 tvg-name="ch454"  tvg-logo="http://tv.team/images/chIcons/454.png"  timeshift="0", Foodtime HD
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch454/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFVNmjRqLWwS0uP-XvSrkPa0ZjqOVTav8i8PgZ5Gwdrj
+#EXTINF:0 tvg-name="ch538"  tvg-logo="http://tv.team/images/chIcons/538.png"  timeshift="0", Еда
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch538/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPUOGxcJmv8LvH8VfQzsPv8RTTLOd8B0-IK-P1F-B2Ja
+#EXTINF:0 tvg-name="ch075"  tvg-logo="http://tv.team/images/chIcons/75.png"  timeshift="0", БОБЁР
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch075/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHf8WOXKmtHeZB4e1ktW_NCqfGiUp3UJAh9vHtUcFrzV
+#EXTINF:0 tvg-name="ch076"  tvg-logo="http://tv.team/images/chIcons/76.png"  timeshift="0", 2X2
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch076/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGczc6IANmgA7P4v2Ak6btbKLCXb8r02l8Cfl8F7_Anh
+#EXTINF:0 tvg-name="ch106"  tvg-logo="http://tv.team/images/chIcons/106.png"  timeshift="3", КВН ТВ
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch106/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD2SjUz65naeAmZJSpvMQrpk0pNgtkECt07sB36PTCcl
+#EXTINF:0 tvg-name="ch109"  tvg-logo="http://tv.team/images/chIcons/109.png"  timeshift="3", Че
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch109/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBr1OhHPVG6Wuvc5qXNsQ9gZMBmYNLD-rt4zMowhNUpK
+#EXTINF:0 tvg-name="ch111"  tvg-logo="http://tv.team/images/chIcons/111.png"  timeshift="0", СТС love
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch111/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB90kjjX9rirPl1l4lDM9gb0CnsjKM_UQEhMFPcFycBS
+#EXTINF:0 tvg-name="ch113"  tvg-logo="http://tv.team/images/chIcons/113.png"  timeshift="3", Ностальгия
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch113/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE_aOdGhegnEcc-7-74dvyoRnAO5CirJ6Lk9QTWb_vRg
+#EXTINF:0 tvg-name="ch118"  tvg-logo="http://tv.team/images/chIcons/118.png"  timeshift="0", Время
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch118/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPDoNEaXuM3mAIR12M2VlIgf7_EKyKR7Ne9eoF6IqJwm
+#EXTINF:0 tvg-name="ch120"  tvg-logo="http://tv.team/images/chIcons/120.png"  timeshift="0", HТB Cтиль
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch120/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB5euNJgbW96kZ1tlFGdrCmlHgHyc8V1-_dz_-MvVN8c
+#EXTINF:0 tvg-name="ch122"  tvg-logo="http://tv.team/images/chIcons/122.png"  timeshift="0", HDL
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch122/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPCV2LktVOx4YVBXg-5W6TvFecsfQVTZD5tL1D0wESMS
+#EXTINF:0 tvg-name="ch729"  tvg-logo="http://tv.team/images/chIcons/729.png"  timeshift="3", Мир HD
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch729/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOuhDWE1cKROVdEycjb3r41H8h_s4SN5cIUNBpbjjXw9
+#EXTINF:0 tvg-name="ch403"  tvg-logo="http://tv.team/images/chIcons/403.png"  timeshift="0", Мир +2
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch403/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKMQ9h-BGpkqWCzGHATJnE_IuXPQworSs-b8CB4KNUiK
+#EXTINF:0 tvg-name="ch404"  tvg-logo="http://tv.team/images/chIcons/404.png"  timeshift="0", Мир +6
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch404/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPSUC4g2izMSt03e6KHpPlntfUuf5viKVH00q0pLIt3U
+#EXTINF:0 tvg-name="ch405"  tvg-logo="http://tv.team/images/chIcons/405.png"  timeshift="0", ОТР
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch405/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGPE6xeCU1qsrwjDAhnW3IVSsN9zxRMqOd9qGxzB2zfT
+#EXTINF:0 tvg-name="ch420"  tvg-logo="http://tv.team/images/chIcons/420.png"  timeshift="3", Ю
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch420/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLWMJe-Y3HQJ8pRLkI9j6KwCA1sbDuN21NWpqCpTobwj
+#EXTINF:0 tvg-name="ch516"  tvg-logo="http://tv.team/images/chIcons/516.png"  timeshift="0", 360 HD
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch516/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMlQHOkjVKZfGPlXR9XfW8OLNujJV9vl8s3G8syn3Bif
+#EXTINF:0 tvg-name="ch517"  tvg-logo="http://tv.team/images/chIcons/517.png"  timeshift="0", Спас
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch517/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdI7vjNp21Ak3opT6oSzSxx8yPK8Xja5vfc9q4I2Gnk4b
+#EXTINF:0 tvg-name="ch518"  tvg-logo="http://tv.team/images/chIcons/518.png"  timeshift="0", Союз
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch518/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMvqe_ZN_usosVZ8JGAAuWDPWgmArEj2MuwkFb9L7CuK
+#EXTINF:0 tvg-name="ch534"  tvg-logo="http://tv.team/images/chIcons/534.png"  timeshift="0", Доверие
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch534/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOXXPyER_d5r_uKWVIQDl3lkfzFmyPG3PQ_fChSdOOR7
+#EXTINF:0 tvg-name="ch541"  tvg-logo="http://tv.team/images/chIcons/541.png"  timeshift="0", ЛДПР ТВ
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch541/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMicXiR_ekiTo9_P_kpOdOnX4VEFpdBHF8hqIzp9uw1R
+#EXTINF:0 tvg-name="ch633"  tvg-logo="http://tv.team/images/chIcons/633.png"  timeshift="0", Перец International
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch633/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJzyWoLkBdEPVB7mmVzMVbAzcw2txtOB8DU7tHkcnAm0
+#EXTINF:0 tvg-name="ch1524"  tvg-logo="http://tv.team/images/chIcons/1524.png"  timeshift="0", Анекдот ТВ
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch1524/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDdQPeyJWGAK0XWKOvjl8XkyqjzaSJg3fHHj7-JdnDOZ
+#EXTINF:0 tvg-name="ch1879"  tvg-logo="http://tv.team/images/chIcons/1879.png"  timeshift="0", Зал Суда
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch1879/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdG4MkdN01RkDCSHfQWRAWglKc7pJsGAvnPRJA1gDfTvn
+#EXTINF:0 tvg-name="ch2307"  tvg-logo="http://tv.team/images/chIcons/2307.png"  timeshift="0", Ключ ТВ
+#EXTGRP:12. Rest/Прочее
+http://1.1usd.tv:34000/ch2307/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAe2FNJLI213v24kcubTuMUnf69qurXluINl9kE9hbR0
+#EXTINF:0 tvg-name="ch049"  tvg-logo="http://tv.team/images/chIcons/49.png"  timeshift="0", Русская ночь
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch049/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDv42VkX2mAnLQuEWsQlpLcSybOB_aqL0tdMoC_ztMMA
+#EXTINF:0 tvg-name="ch050"  tvg-logo="http://tv.team/images/chIcons/50.png"  timeshift="0", Playboy
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch050/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBCCqQjQCZ0HelVaZ5Jqyar_gcEZhFyZnhU5DD2Gjn00
+#EXTINF:0 tvg-name="ch094"  tvg-logo="http://tv.team/images/chIcons/94.png"  timeshift="0", Private TV HD
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch094/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGxqM1stJDgHNp15u9-gNr2OQYlKsGeEl4hMiR3DRUyu
+#EXTINF:0 tvg-name="ch093"  tvg-logo="http://tv.team/images/chIcons/93.png"  timeshift="0", BRAZZERS TV
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch093/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdF2u2nGUoGGzZzhVXQku7Sa2xG7zZMCuo571G8Z0q9bg
+#EXTINF:0 tvg-name="ch096"  tvg-logo="http://tv.team/images/chIcons/96.png"  timeshift="0", Hustler HD
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch096/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIqTWLacuDLognKZ8xnSr9NLJQOr7EFHwlp7RDjwVDIF
+#EXTINF:0 tvg-name="ch097"  tvg-logo="http://tv.team/images/chIcons/97.png"  timeshift="0", Dorcel HD
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch097/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLacBgg_BB0Otetp5227B-N3DFN0Pu804ykqGI_bal-3
+#EXTINF:0 tvg-name="ch380"  tvg-logo="http://tv.team/images/chIcons/380.png"  timeshift="0", Pornbox A Girls Knows
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch380/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCctEApCcGqe-EQgrszRzfxbvlJz03mOrQH4pT8H1gxZ
+#EXTINF:0 tvg-name="ch248"  tvg-logo="http://tv.team/images/chIcons/248.png"  timeshift="0", Pornbox Adult Time
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch248/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJJw8QKkbeg4qnq5IJgxA_TJj830dIh8V9tUkZGeHylI
+#EXTINF:0 tvg-name="ch810"  tvg-logo="http://tv.team/images/chIcons/810.png"  timeshift="0", Pornbox All Group Sex
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch810/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCx3CqO3a8eWNXOaZLIiM_ChQlEG8ncpQlLNMxLoPp6v
+#EXTINF:0 tvg-name="ch793"  tvg-logo="http://tv.team/images/chIcons/793.png"  timeshift="0", Pornbox Bums Bus
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch793/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPN2AcYL2yEXvH1Q7g1IDP8EFbGIln0kxCeS1AMLdcQ0
+#EXTINF:0 tvg-name="ch051"  tvg-logo="http://tv.team/images/chIcons/51.png"  timeshift="0", Pornbox Babes
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch051/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPJdfOdZvTatcbeIzeFwgWvYu9JP8GQ5kJN3rJMwnrp-
+#EXTINF:0 tvg-name="ch792"  tvg-logo="http://tv.team/images/chIcons/792.png"  timeshift="0", Pornbox Bratty Sis
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch792/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHkABx7xNkLbI-RUrYDkWnBnJwOMbhQ4ePg4vEBO2IG0
+#EXTINF:0 tvg-name="ch246"  tvg-logo="http://tv.team/images/chIcons/246.png"  timeshift="0", Pornbox Blacked
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch246/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdENKNNPaPEDglrqMAqbOgOnIzfZ8PtDxohyvw8EYpKah
+#EXTINF:0 tvg-name="ch053"  tvg-logo="http://tv.team/images/chIcons/53.png"  timeshift="0", Pornbox Cum 4K
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch053/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB4oMa_nWxkuF3PeCKjysmmIuXTmVSseyP7DWAda0_WM
+#EXTINF:0 tvg-name="ch795"  tvg-logo="http://tv.team/images/chIcons/795.png"  timeshift="0", Pornbox Casting Couch
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch795/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEuicaTENwfOMjUBAJP9_0bNuu5EPBZzY_plL5ugtlWw
+#EXTINF:0 tvg-name="ch377"  tvg-logo="http://tv.team/images/chIcons/377.png"  timeshift="0", Pornbox Dogfart Network
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch377/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIxLmvLNAvCdU6Xvm-SycnsntCAsfVgoiBuDLSxkxshh
+#EXTINF:0 tvg-name="ch376"  tvg-logo="http://tv.team/images/chIcons/376.png"  timeshift="0", Pornbox DDF Busty
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch376/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLNAQWvGEnjLJ88Er0iiMXftdGo01N6tlD-mwTAapcD8
+#EXTINF:0 tvg-name="ch291"  tvg-logo="http://tv.team/images/chIcons/291.png"  timeshift="0", Pornbox Diabolic
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch291/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAm78kEs6-TEOnwIHUi8Tk7n262tOw_pDuJHhRLitazd
+#EXTINF:0 tvg-name="ch052"  tvg-logo="http://tv.team/images/chIcons/52.png"  timeshift="0", Pornbox Gender X Films
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch052/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP_RczWEqQmb-9e61n-A6jTZFEHqwZtowUkW_LFqPdE0
+#EXTINF:0 tvg-name="ch801"  tvg-logo="http://tv.team/images/chIcons/801.png"  timeshift="0", Pornbox Family Strokes
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch801/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMd3MCR5nujkg6x911MaGjW4zardsZGd-tYPxrBs0ONE
+#EXTINF:0 tvg-name="ch803"  tvg-logo="http://tv.team/images/chIcons/803.png"  timeshift="0", Pornbox Fake Taxi
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch803/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIwahlfus35wKbnSJF8BMBqQBIuH3kt-YzY9QnCA6CXL
+#EXTINF:0 tvg-name="ch794"  tvg-logo="http://tv.team/images/chIcons/794.png"  timeshift="0", Pornbox Fake Hostel
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch794/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIrjROGjRF3n8rn-LfTwA2MY1PtScanBknE3aCts127h
+#EXTINF:0 tvg-name="ch799"  tvg-logo="http://tv.team/images/chIcons/799.png"  timeshift="0", Pornbox First Anal Quest
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch799/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBNayIR7wQRWeYfsRkqj44ArpoK7gShcBdvJCS_QpEj5
+#EXTINF:0 tvg-name="ch798"  tvg-logo="http://tv.team/images/chIcons/798.png"  timeshift="0", Pornbox Fit 18
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch798/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLwWU_RvljnzJcGzVVLsCfFSdy_Uaba7nu_USrkLmEym
+#EXTINF:0 tvg-name="ch800"  tvg-logo="http://tv.team/images/chIcons/800.png"  timeshift="0", Pornbox Fapadoo
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch800/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH8HiS20n1rXvLlXK1cwKRhRWBePGzI1Vob3FTP60zm1
+#EXTINF:0 tvg-name="ch824"  tvg-logo="http://tv.team/images/chIcons/824.png"  timeshift="0", Pornbox Holed
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch824/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPj0jUfuZNQneHIN2LGeTg7LVNHr-P58uOVl_mzOiq-n
+#EXTINF:0 tvg-name="ch250"  tvg-logo="http://tv.team/images/chIcons/250.png"  timeshift="0", Pornbox Hentained
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch250/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFaMQa22AN09C7_YgR3R9Wulki1gyv1hPyz1Kw02Fn2T
+#EXTINF:0 tvg-name="ch249"  tvg-logo="http://tv.team/images/chIcons/249.png"  timeshift="0", Pornbox Jules Jordan
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch249/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAgq9I-IsyMUk04Vm7D0mDHkK4ov6w62dV82JUcHEDQ3
+#EXTINF:0 tvg-name="ch290"  tvg-logo="http://tv.team/images/chIcons/290.png"  timeshift="0", Pornbox Jays Pov
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch290/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIb3AkYOuOPIN_sAuC3VXxx7P6LcJLZEU9MSWZvvnFuV
+#EXTINF:0 tvg-name="ch375"  tvg-logo="http://tv.team/images/chIcons/375.png"  timeshift="0", Pornbox Jesh By Jesh
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch375/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIIAM_StMbqUGOFeiNrde1NyK-2EQIq7Qp9zPPIV1h5x
+#EXTINF:0 tvg-name="ch823"  tvg-logo="http://tv.team/images/chIcons/823.png"  timeshift="0", Pornbox Interracial Pass
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch823/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBOTXPEtSxrpZPY614_32VKhfP1kcMABfMcic2H8LY7n
+#EXTINF:0 tvg-name="ch289"  tvg-logo="http://tv.team/images/chIcons/289.png"  timeshift="0", Pornbox Kinky Family
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch289/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA9Fkd2SX8peDhWpqC3fPjHy91ntDxLF5hz3CyRN174e
+#EXTINF:0 tvg-name="ch809"  tvg-logo="http://tv.team/images/chIcons/809.png"  timeshift="0", Pornbox Lets Do It
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch809/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBNyH0-Av63gskLZNEYqYM9H32M_sKRplj2gOpfSlFwx
+#EXTINF:0 tvg-name="ch813"  tvg-logo="http://tv.team/images/chIcons/813.png"  timeshift="0", Pornbox Love Her Feet
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch813/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNrm3aS1q-GWwGv6FRcssV1hDRsBJyGrjKmuzKM47vue
+#EXTINF:0 tvg-name="ch807"  tvg-logo="http://tv.team/images/chIcons/807.png"  timeshift="0", Pornbox Love Home Porn
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch807/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKN2PvEXYv-V_gcs3p27zpZiMXTph_HK4Oa4VxLlqJTJ
+#EXTINF:0 tvg-name="ch850"  tvg-logo="http://tv.team/images/chIcons/850.png"  timeshift="0", Pornbox Massage Rooms
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch850/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLEcGUOexNzW9V4GTCh1VUUYKQBRD0RkGqMLzlSvM_Ya
+#EXTINF:0 tvg-name="ch815"  tvg-logo="http://tv.team/images/chIcons/815.png"  timeshift="0", Pornbox My Tiny Wish
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch815/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLENkmS13o78UQu_gIWG60I00eKTCbjyDmFVLfcgZuow
+#EXTINF:0 tvg-name="ch817"  tvg-logo="http://tv.team/images/chIcons/817.png"  timeshift="0", Pornbox My Family Pies
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch817/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC9bunvlL1hW56THWgyolnVRbeAqd9wb1r10OvPL9sv6
+#EXTINF:0 tvg-name="ch806"  tvg-logo="http://tv.team/images/chIcons/806.png"  timeshift="0", Pornbox Must Not Fap
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch806/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPO0a862Z5QjMlhKSWOGdymEXv4rjpwAf7n87roqOxgC
+#EXTINF:0 tvg-name="ch292"  tvg-logo="http://tv.team/images/chIcons/292.png"  timeshift="0", Pornbox Model Media Asia
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch292/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAC86TY10i5Qbg5h1TQPShlD7b91vqnHk-AV4d35gotr
+#EXTINF:0 tvg-name="ch816"  tvg-logo="http://tv.team/images/chIcons/816.png"  timeshift="0", Pornbox Mom Teach Sex
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch816/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE-Eqm78zNgMOnUtrQLuXmBnVHmE4t26JhrQ2gkNCuEv
+#EXTINF:0 tvg-name="ch802"  tvg-logo="http://tv.team/images/chIcons/802.png"  timeshift="0", Pornbox Mamacitaz
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch802/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBExuIMP7suBrceY_bAzn6tH910q5OxeuR9utUxL6l5n
+#EXTINF:0 tvg-name="ch814"  tvg-logo="http://tv.team/images/chIcons/814.png"  timeshift="0", Pornbox My Dirty Hobby
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch814/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdASHt2HVPJ8Tiop0ngWcF2cextw9XUZ9BEILOUvcdA22
+#EXTINF:0 tvg-name="ch247"  tvg-logo="http://tv.team/images/chIcons/247.png"  timeshift="0", Pornbox Pornochic
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch247/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK5VSfABdTX99qRphhIgwn5FQ6NXvjvw9tamJcEdsoU7
+#EXTINF:0 tvg-name="ch797"  tvg-logo="http://tv.team/images/chIcons/797.png"  timeshift="0", Pornbox Public Agent
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch797/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBT0we1nVZPuPtexYtN62M8xrPdAC1X6j0Vxd8TrGDne
+#EXTINF:0 tvg-name="ch820"  tvg-logo="http://tv.team/images/chIcons/820.png"  timeshift="0", Pornbox Passion
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch820/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM9_1U54gKFOssI_P8-5D0eos2yi5Btvds10irjDjU0M
+#EXTINF:0 tvg-name="ch804"  tvg-logo="http://tv.team/images/chIcons/804.png"  timeshift="0", Pornbox Pure Mature
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch804/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL86hgN2-PCwDy6CxQ7L-U3NlUKDfPxA7LUD2UyLp28S
+#EXTINF:0 tvg-name="ch812"  tvg-logo="http://tv.team/images/chIcons/812.png"  timeshift="0", Pornbox Princess Cum
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch812/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdI0fVcKrGFldpOkag4tpxHCq_OTICw4_ajDcm3v3bmfk
+#EXTINF:0 tvg-name="ch811"  tvg-logo="http://tv.team/images/chIcons/811.png"  timeshift="0", Pornbox Real Dirty Videos
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch811/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNNXZg7DmY3NPAKrdEw_pwmLe5MSxJfMetU7sd5Eyxj_
+#EXTINF:0 tvg-name="ch821"  tvg-logo="http://tv.team/images/chIcons/821.png"  timeshift="0", Pornbox Reality Junkies
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch821/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKLS4g6z234u2sORO7jlXf9Jy3EAxXw4z77jpjZGJ8-E
+#EXTINF:0 tvg-name="ch822"  tvg-logo="http://tv.team/images/chIcons/822.png"  timeshift="0", Pornbox Reality Kings
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch822/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGXXVqYDo_3gJRz9HMJG1J-oc4KxftWyGy0VryQTV3D4
+#EXTINF:0 tvg-name="ch796"  tvg-logo="http://tv.team/images/chIcons/796.png"  timeshift="0", Pornbox Slim 4K
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch796/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIGNerlwfB7fvq8fDjvox_IUU_gtWnJ0cuxg1VdtHEwD
+#EXTINF:0 tvg-name="ch818"  tvg-logo="http://tv.team/images/chIcons/818.png"  timeshift="0", Pornbox Strokies
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch818/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD3zcsbCxbIbln1CkvpqIXHWzUq4z18olJu3c4Wv9n_J
+#EXTINF:0 tvg-name="ch825"  tvg-logo="http://tv.team/images/chIcons/825.png"  timeshift="0", Pornbox True Amatuers
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch825/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEGP4IgI0o6trwzsX_TuZVssksjWGkWM0JTidx0I5ss0
+#EXTINF:0 tvg-name="ch851"  tvg-logo="http://tv.team/images/chIcons/851.png"  timeshift="0", Pornbox Elsa Jean Pornstar
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch851/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAU6EG40GHx1x4o-JX4VlQiA-nF6hCzZaW1mP6D67teb
+#EXTINF:0 tvg-name="ch808"  tvg-logo="http://tv.team/images/chIcons/808.png"  timeshift="0", Pornbox Riley Reid Pornstar
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch808/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdARFzJABJd3O_VOIgp62oYEC910NDjCGO7hXBZRJFISh
+#EXTINF:0 tvg-name="ch819"  tvg-logo="http://tv.team/images/chIcons/819.png"  timeshift="0", EU Cinema BDSM
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch819/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN0mOCmWZxM1l6CFcDxhHv9Ywp5U4qKyRz2aX9Q6hqnx
+#EXTINF:0 tvg-name="ch381"  tvg-logo="http://tv.team/images/chIcons/381.png"  timeshift="0", EU Cinema Bisexual
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch381/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPHHdDFSUjPKbPeKJ3TguAuc7tZJsYLBFckHezT99j8l
+#EXTINF:0 tvg-name="ch791"  tvg-logo="http://tv.team/images/chIcons/791.png"  timeshift="0", EU Cinema Teen
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch791/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFgl7ykGXjLWAzET1gnOv5hkMrnDKVOJSELzLW_ns6jS
+#EXTINF:0 tvg-name="ch826"  tvg-logo="http://tv.team/images/chIcons/826.png"  timeshift="0", EU Cinema Gays
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch826/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPCyjlB7fp5nyMOH45y_gGG7aQkSV6ruu8wxoWl_pvWV
+#EXTINF:0 tvg-name="ch805"  tvg-logo="http://tv.team/images/chIcons/805.png"  timeshift="0", EU Cinema MILF
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch805/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIVerQMTGCXOeSGwE0Jcgzw7cNJuSp7HuQNKBiwQPJfL
+#EXTINF:0 tvg-name="ch836"  tvg-logo="http://tv.team/images/chIcons/836.png"  timeshift="0", EU Cinema for Adults 1
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch836/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGIgIjRG0WemjJKT0FmpEdq0K9zMd_wjDS6pwkYlcPcV
+#EXTINF:0 tvg-name="ch837"  tvg-logo="http://tv.team/images/chIcons/837.png"  timeshift="0", EU Cinema for Adults 2
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch837/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJl_PIKyPIsd-coOoWmqpliMG154ft6rYR-JiccpdMIV
+#EXTINF:0 tvg-name="ch838"  tvg-logo="http://tv.team/images/chIcons/838.png"  timeshift="0", EU Cinema for Adults 3
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch838/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMeyS90c7ALeOL1nDUmagUe-lYUWx_Spatg5TtOJmO1z
+#EXTINF:0 tvg-name="ch839"  tvg-logo="http://tv.team/images/chIcons/839.png"  timeshift="0", EU Cinema for Adults 4
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch839/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNIrndHNIf2jERY29fz8ueOOtd-H845LiDHyB-sKk-ci
+#EXTINF:0 tvg-name="ch840"  tvg-logo="http://tv.team/images/chIcons/840.png"  timeshift="0", EU Cinema for Adults 5
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch840/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHDSMWr6zFLnn-h_kqACj38FEo5vDaHPgxD0dDMs1r2n
+#EXTINF:0 tvg-name="ch841"  tvg-logo="http://tv.team/images/chIcons/841.png"  timeshift="0", EU Cinema Defloration 1
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch841/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGnbW7ZKBmzxjokEkNdNlAiNXEQRNJgeT4BylYwR1rk8
+#EXTINF:0 tvg-name="ch842"  tvg-logo="http://tv.team/images/chIcons/842.png"  timeshift="0", EU Cinema Bisexual
+#EXTGRP:13. For Adults
+http://1.1usd.tv:34000/ch842/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDPr_aYQiLugnzC38k-ewBCn907rb94PPKMxnNajubYu
+#EXTINF:0 tvg-name="ch216"  tvg-logo="http://tv.team/images/chIcons/216.png"  timeshift="3", UA: Перший
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch216/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNkSsyHAhUnWn6BsNOfSqxB7JGzaQLWY-TYMSHi1e4h7
+#EXTINF:0 tvg-name="ch089"  tvg-logo="http://tv.team/images/chIcons/89.png"  timeshift="3", UA: Интер
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch089/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDjiymXLQEqaRuWoRrINtu79QKagZ4jmNtl5SmflvVPS
+#EXTINF:0 tvg-name="ch304"  tvg-logo="http://tv.team/images/chIcons/304.png"  timeshift="3", UA: Интер+ HD
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch304/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAEX6kkEIlAeBFp1skpXMOdk_3EP-XvLmd-x4DNAY38i
+#EXTINF:0 tvg-name="ch087"  tvg-logo="http://tv.team/images/chIcons/87.png"  timeshift="3", UA: 5 канал
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch087/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLVqbJ_h7OYrOSVAa4O7Ij1W9GhUtE7cJuM3hchuSnn0
+#EXTINF:0 tvg-name="ch217"  tvg-logo="http://tv.team/images/chIcons/217.png"  timeshift="3", UA: 1+1 Марафон HD
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch217/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAp8ytvRzL1uMT1gPkjJg7-HepMyfgZx5j2NhqrN_qeD
+#EXTINF:0 tvg-name="ch218"  tvg-logo="http://tv.team/images/chIcons/218.png"  timeshift="3", UA: 1+1 Int
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch218/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNyAS2K6n3_CEbDhISz01MX656MBJjvyRouhCxgViamp
+#EXTINF:0 tvg-name="ch095"  tvg-logo="http://tv.team/images/chIcons/95.png"  timeshift="3", UA: Еспресо TV
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch095/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN2KOj66ZlnuDrd7IFMz5fI0pEbzqkuaYfDnir1zmeBC
+#EXTINF:0 tvg-name="ch251"  tvg-logo="http://tv.team/images/chIcons/251.png"  timeshift="3", UA: K1
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch251/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdChRigosq5I7GMRpvkLqD_Q5glEk8SVqVqQdFtQztD1K
+#EXTINF:0 tvg-name="ch252"  tvg-logo="http://tv.team/images/chIcons/252.png"  timeshift="3", UA: К2
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch252/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHBbiaknu3ExjynFZPvbp5X9wjwV10AUKlNkKu23qUv1
+#EXTINF:0 tvg-name="ch224"  tvg-logo="http://tv.team/images/chIcons/224.png"  timeshift="3", UA: ТЕТ
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch224/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEDodHPk73Yi-ltjTp_mnd1QsXHdcGGSKlm3M5Z8mGFa
+#EXTINF:0 tvg-name="ch225"  tvg-logo="http://tv.team/images/chIcons/225.png"  timeshift="3", UA: НТН
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch225/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP0fLP9DE2XdjvIvxYXEFzc1QRHiyxtIF--EkAW5rgpm
+#EXTINF:0 tvg-name="ch221"  tvg-logo="http://tv.team/images/chIcons/221.png"  timeshift="3", UA: Новый канал
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch221/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLTc6GjO1b9x0bJhkKS_qbJu5Rwx8K-N1gXhShLhuJ12
+#EXTINF:0 tvg-name="ch226"  tvg-logo="http://tv.team/images/chIcons/226.png"  timeshift="3", UA: Мега
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch226/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFy5gA_INV_iF9SCUhlfmW-hzTv-Q_Q7nf1Wmx8NkXYt
+#EXTINF:0 tvg-name="ch296"  tvg-logo="http://tv.team/images/chIcons/296.png"  timeshift="3", UA: Zoom
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch296/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD_aTaCVl39_UScUx2n2lMcGUFH0qj3mZZLkcOd_jOhY
+#EXTINF:0 tvg-name="ch297"  tvg-logo="http://tv.team/images/chIcons/297.png"  timeshift="3", UA: Enter-фильм
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch297/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM13D-bQOWF7yQRB6DqCgnU3YEFWxlZS4Nx4myTHiBev
+#EXTINF:0 tvg-name="ch299"  tvg-logo="http://tv.team/images/chIcons/299.png"  timeshift="3", UA: Бигуди
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch299/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEIjeXGtG7XgjbWK41a9AiXsOLSLIP0U6gLgevOIDQA5
+#EXTINF:0 tvg-name="ch300"  tvg-logo="http://tv.team/images/chIcons/300.png"  timeshift="3", UA: Униан ТВ
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch300/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJoBDHuS5e2wlURHNAtmcxB1QQ5OTZ7kvAA5gkLrMCv_
+#EXTINF:0 tvg-name="ch303"  tvg-logo="http://tv.team/images/chIcons/303.png"  timeshift="3", UA: Первый автомобильный
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch303/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJpqCTbigpuxd0vfzosu1XR6pkORQ-e1xLTH_nhih0Ve
+#EXTINF:0 tvg-name="ch305"  tvg-logo="http://tv.team/images/chIcons/305.png"  timeshift="3", UA: Lale
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch305/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNzcmG3Th4fmqWfsCdiOZWXdJd4QKdzG5JgfrkExPaNX
+#EXTINF:0 tvg-name="ch307"  tvg-logo="http://tv.team/images/chIcons/307.png"  timeshift="6", UA: Надежда
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch307/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKdE91rAYjD5-T-bfO20q7X-MRznZg8w2aL4Wol47kfy
+#EXTINF:0 tvg-name="ch308"  tvg-logo="http://tv.team/images/chIcons/308.png"  timeshift="3", UA: Сонце
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch308/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOUrAhEttSGY37bumb0kSa0Vg44Jq-V-UULRaKu9jjpZ
+#EXTINF:0 tvg-name="ch309"  tvg-logo="http://tv.team/images/chIcons/309.png"  timeshift="3", UA: Рада
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch309/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFA_vlENnV64OpwcGbMHmFfnZL36p4OhPZUG4Y3h4WFP
+#EXTINF:0 tvg-name="ch310"  tvg-logo="http://tv.team/images/chIcons/310.png"  timeshift="3", UA: Пиксель
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch310/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA4ML7ceVqgp-owd-bdU5I5E3xz_deUbXUdCvmOAUK-L
+#EXTINF:0 tvg-name="ch312"  tvg-logo="http://tv.team/images/chIcons/312.png"  timeshift="3", UA: Прямой HD
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch312/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEhiwkVJQ1K2Mfc70AOcz6mnqXwrnquu_PR7qlDD5q9-
+#EXTINF:0 tvg-name="ch315"  tvg-logo="http://tv.team/images/chIcons/315.png"  timeshift="3", UA: News 24
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch315/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdITPQXYzvZbj5ly3_Cu5X8SqGyVBEBf33FVNSS3uZZBp
+#EXTINF:0 tvg-name="ch317"  tvg-logo="http://tv.team/images/chIcons/317.png"  timeshift="3", UA: Megogo Live HD
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch317/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKt8xeHm_8q1TB9ll4XBt84Ir-AOpdoS2Susfg-IsplV
+#EXTINF:0 tvg-name="ch657"  tvg-logo="http://tv.team/images/chIcons/657.png"  timeshift="3", UA: Суспільне Донбас
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch657/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN1dK8vggWf2Y6MvutYA_jMPs60xi3icjZz43aQP_jkW
+#EXTINF:0 tvg-name="ch704"  tvg-logo="http://tv.team/images/chIcons/704.png"  timeshift="3", UA: Суспільне Культура
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch704/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKubo9AOR40cpCMsxTbp9AFHmQsQhAIuq0nxG5LxDqQ9
+#EXTINF:0 tvg-name="ch693"  tvg-logo="http://tv.team/images/chIcons/693.png"  timeshift="3", UA: 33 канал
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch693/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPn0MybSvopEwMqfk8wVT5GGYZArkehTnMIniiCq_Ezp
+#EXTINF:0 tvg-name="ch2460"  tvg-logo="http://tv.team/images/chIcons/2460.png"  timeshift="0", UA: Ukraine World News
+#EXTGRP:14. Ukraine
+http://1.1usd.tv:34000/ch2460/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHmKPQtXKA1JYCXWJ0tlmycr9qtTLrK_3uAcBHWX1lJl
+#EXTINF:0 tvg-name="ch159"  tvg-logo="http://tv.team/images/chIcons/159.png"  timeshift="3", 13th Street HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch159/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPltcRjvW0E_jERgRk5IZTOOKxdkNL2Yb5Z5hIykmxDT
+#EXTINF:0 tvg-name="ch271"  tvg-logo="http://tv.team/images/chIcons/271.png"  timeshift="3", 3sat HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch271/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNqtLrRu_mcAfGMqF20qXcqA-Qup5YQuZRC15caqWRa2
+#EXTINF:0 tvg-name="ch643"  tvg-logo="http://tv.team/images/chIcons/643.png"  timeshift="3", ATV HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch643/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPO4UwmhndwdzBcRO-h_3KL5ggiLqWV0cqkW5r_tLnoo
+#EXTINF:0 tvg-name="ch610"  tvg-logo="http://tv.team/images/chIcons/610.png"  timeshift="3", Anixe Serie HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch610/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLGOAESec7l1LOsWE6iLD5OebWE3t4WwTEF2VhGZb4Zj
+#EXTINF:0 tvg-name="ch163"  tvg-logo="http://tv.team/images/chIcons/163.png"  timeshift="3", Arte HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch163/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDJcVJFY0l_l3XfDChj0LlEuAEDlk4vkB0kR2JZTNS5A
+#EXTINF:0 tvg-name="ch281"  tvg-logo="http://tv.team/images/chIcons/281.png"  timeshift="3", Animal Planet
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch281/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCqZUYvelS0GsdTJm-jB8b2kc1lqBj4HSIk1oypKtzhA
+#EXTINF:0 tvg-name="ch273"  tvg-logo="http://tv.team/images/chIcons/273.png"  timeshift="3", Auto Motor Sport HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch273/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCsnaHPeiLimstLzYQOLDxUfi6gb3rC5vRInOucaffVg
+#EXTINF:0 tvg-name="ch282"  tvg-logo="http://tv.team/images/chIcons/282.png"  timeshift="3", Bergblick HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch282/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFG46jUoFoK34gvR-dzURxz2Jmi4zJaL8Y0GeG8yJHOM
+#EXTINF:0 tvg-name="ch161"  tvg-logo="http://tv.team/images/chIcons/161.png"  timeshift="3", Cartoonito DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch161/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLRDO9pDSJ14Xk_0NKKipNlwcph2zdoM8V3vd3c03FGn
+#EXTINF:0 tvg-name="ch172"  tvg-logo="http://tv.team/images/chIcons/172.png"  timeshift="3", Bon Gusto HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch172/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHx8-pMK779AbBplhDRqnxhpqgt6PzQumV6VJBHosajA
+#EXTINF:0 tvg-name="ch162"  tvg-logo="http://tv.team/images/chIcons/162.png"  timeshift="3", Cartoon Network DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch162/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHG_wjFi1CNrZvXT9zSRfTB_KhMsr4nI2b2Pif9ABJ4j
+#EXTINF:0 tvg-name="ch213"  tvg-logo="http://tv.team/images/chIcons/213.png"  timeshift="3", Crime Investigation HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch213/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOf1mJUZBoTf8rFwg8yubaxdJXt7KXKmDIfaSumdIiUT
+#EXTINF:0 tvg-name="ch284"  tvg-logo="http://tv.team/images/chIcons/284.png"  timeshift="3", Comedy Central DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch284/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHUrCGkrBSYE0I15fq5IWap6rZ9UmLHlP-mfBW7bZhS_
+#EXTINF:0 tvg-name="ch265"  tvg-logo="http://tv.team/images/chIcons/265.png"  timeshift="3", Das Erste HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch265/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP_3y5hUYke8bymRabEhL-LM4MgGT8JmJ8PSad-j-yV7
+#EXTINF:0 tvg-name="ch086"  tvg-logo="http://tv.team/images/chIcons/86.png"  timeshift="3", Dazn 1 Bar HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch086/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH5JDIE4aw7fk1ChAfCre0f2-W-vWfjBp4YlpffnxTe6
+#EXTINF:0 tvg-name="ch035"  tvg-logo="http://tv.team/images/chIcons/35.png"  timeshift="3", Dazn 2 Bar HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch035/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDn1DUSny3f8O5dDomF6z0Xsw67EtY1havBPtMyaKWom
+#EXTINF:0 tvg-name="ch278"  tvg-logo="http://tv.team/images/chIcons/278.png"  timeshift="3", Dmax HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch278/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDluT1wXQy4yQt_2-vOmMr1xCNfVv3YXTxrAgnJeUUv3
+#EXTINF:0 tvg-name="ch165"  tvg-logo="http://tv.team/images/chIcons/165.png"  timeshift="3", Disney Channel HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch165/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKhrdTqkY-hK8po9HGkMilg4QJiAVza81j7OcGKdkpiQ
+#EXTINF:0 tvg-name="ch167"  tvg-logo="http://tv.team/images/chIcons/167.png"  timeshift="3", Disney Junior HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch167/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAhnFfTvggypdxx1ccF_G4boXWCt0FBVN8ERiAeSjCry
+#EXTINF:0 tvg-name="ch168"  tvg-logo="http://tv.team/images/chIcons/168.png"  timeshift="3", Disney XD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch168/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdON3cFmxudOt6AqqHmy3IASO1OhqdnR4XtjS1zk6JMcQ
+#EXTINF:0 tvg-name="ch237"  tvg-logo="http://tv.team/images/chIcons/237.png"  timeshift="0", Deluxe Music HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch237/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLy-eIx-p3g0U4tVQIOB9K4Ghi-BAErWe4LxOO38BjDP
+#EXTINF:0 tvg-name="ch1928"  tvg-logo="http://tv.team/images/chIcons/1928.png"  timeshift="0", Deutsches Musik Fernsehen
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1928/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAUH083k-K4n7cRdSKH8DLcV8hbw3pZ-xcIeuc5Wxukt
+#EXTINF:0 tvg-name="ch164"  tvg-logo="http://tv.team/images/chIcons/164.png"  timeshift="3", Discovery Channel HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch164/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFsDadRiY-Rk3OZIHeOGYza8paNM4_xoPqX_hdMTc5gB
+#EXTINF:0 tvg-name="ch270"  tvg-logo="http://tv.team/images/chIcons/270.png"  timeshift="0", Euronews
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch270/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPQUy0l-ZWsQnulnUbBAoV8hxMaF4JI9N62nT7HWO6MR
+#EXTINF:0 tvg-name="ch286"  tvg-logo="http://tv.team/images/chIcons/286.png"  timeshift="3", Eurosport 1 HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch286/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJOpZjGXHxs3BWlCd0P-pqnexWfLiObgWtE2tfkVF3Nu
+#EXTINF:0 tvg-name="ch287"  tvg-logo="http://tv.team/images/chIcons/287.png"  timeshift="3", Eurosport 2 HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch287/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHuroRQmhx_XngzAc3u_Nk9FzDV-BCnA-8IDY3RTQD9E
+#EXTINF:0 tvg-name="ch288"  tvg-logo="http://tv.team/images/chIcons/288.png"  timeshift="3", Eurosport 2Xtra HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch288/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB-cm5AflpVpa_DQB_OCtnmj25wsvcqJlyK7a-b8VI9G
+#EXTINF:0 tvg-name="ch121"  tvg-logo="http://tv.team/images/chIcons/121.png"  timeshift="0", Eurosport 360 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch121/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMgb-3kMfwZJUqPVLrn8h-3d8Qh237zR9dcYjJZOUxFd
+#EXTINF:0 tvg-name="ch215"  tvg-logo="http://tv.team/images/chIcons/215.png"  timeshift="3", eSports1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch215/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdILZ1pe61bUAQy-ENLUnft0QjJR4wKE3aqezIrnV3FgV
+#EXTINF:0 tvg-name="ch277"  tvg-logo="http://tv.team/images/chIcons/277.png"  timeshift="3", Horse and Country TV
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch277/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPNznxFJV0IuAA9HEhTtwSoAfJJ_cD_Fzef_J2kQHGvD
+#EXTINF:0 tvg-name="ch833"  tvg-logo="http://tv.team/images/chIcons/833.png"  timeshift="3", HR Fernsehen HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch833/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBvVRHqd9Eoi51qvXVWrPweYi--2aYjkZID3Mo-nfxIt
+#EXTINF:0 tvg-name="ch171"  tvg-logo="http://tv.team/images/chIcons/171.png"  timeshift="3", History HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch171/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO30cr5cl_3qbDKJjCi3vV11JOPmbRdT8VVpnB-Z75Br
+#EXTINF:0 tvg-name="ch170"  tvg-logo="http://tv.team/images/chIcons/170.png"  timeshift="3", Heimatkanal
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch170/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCoPW-YHCtNbdnUxEUwhJfsxiUbLYwfdNsOZ4dL6D0AR
+#EXTINF:0 tvg-name="ch969"  tvg-logo="http://tv.team/images/chIcons/969.png"  timeshift="3", HGTV
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch969/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGlDRuvanqzhLhaU0vOGFQqjYEAdpTmthPBnX_2H0938
+#EXTINF:0 tvg-name="ch174"  tvg-logo="http://tv.team/images/chIcons/174.png"  timeshift="3", Kinowelt
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch174/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHJIhCgrbPc77DanOte9bSjIa2axAZMRleZ2S6hxXDNM
+#EXTINF:0 tvg-name="ch242"  tvg-logo="http://tv.team/images/chIcons/242.png"  timeshift="3", Kabel 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch242/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPl52rDOC9oQBh7pwRtICd-nqxFcNfGKARwjwDZH-nN2
+#EXTINF:0 tvg-name="ch253"  tvg-logo="http://tv.team/images/chIcons/253.png"  timeshift="3", Kabel 1 Classics HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch253/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO3MKQ6_97SxZzNn6NjqVvYMT37eEXl4b8t88mYszTUI
+#EXTINF:0 tvg-name="ch243"  tvg-logo="http://tv.team/images/chIcons/243.png"  timeshift="3", Kabel 1 Doku
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch243/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKP3pTS8eBtPOOrc6IL_VgWEI2YaJ5v81ZNVxErtuYhl
+#EXTINF:0 tvg-name="ch214"  tvg-logo="http://tv.team/images/chIcons/214.png"  timeshift="3", KiKa HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch214/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCs76XfhNg8P10crA9ABSE3Gup-zqjn8KNyYXi56UZMH
+#EXTINF:0 tvg-name="ch238"  tvg-logo="http://tv.team/images/chIcons/238.png"  timeshift="0", Mtv HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch238/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN5NxE79hJsoM6Tl3Gy3B-v0AQ2LNmZeFj2aYqaWun7m
+#EXTINF:0 tvg-name="ch279"  tvg-logo="http://tv.team/images/chIcons/279.png"  timeshift="0", Melodie TV
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch279/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGlHC4ca_5Skw-NqENX3EkA33OIrvCP1coaYB7Fnorq_
+#EXTINF:0 tvg-name="ch175"  tvg-logo="http://tv.team/images/chIcons/175.png"  timeshift="3", Motorvision tv
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch175/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJpPUR-ZAaZ1TBMqKiGFvrPZ5Re4E4K0qKB0pOL8jeai
+#EXTINF:0 tvg-name="ch267"  tvg-logo="http://tv.team/images/chIcons/267.png"  timeshift="3", N-TV HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch267/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMrh7UkOv3z8hn1Ac6U3P5xlhciVJ2fz72vNb43smhol
+#EXTINF:0 tvg-name="ch177"  tvg-logo="http://tv.team/images/chIcons/177.png"  timeshift="3", Nat Geo HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch177/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPIBqKpD_T6x8xIpgl3s2JGlcr7e8yUOsU_yonAIJx-r
+#EXTINF:0 tvg-name="ch176"  tvg-logo="http://tv.team/images/chIcons/176.png"  timeshift="3", Nat Geo Wild HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch176/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOT448fPQ57l5MY_5qzKc2gPPfL3NdJLam4avvotNyPA
+#EXTINF:0 tvg-name="ch223"  tvg-logo="http://tv.team/images/chIcons/223.png"  timeshift="0", Nick jr
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch223/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCLImQopWd89NAW_pNVeD63qvfsvqYEPcTGWw8OHAZTq
+#EXTINF:0 tvg-name="ch666"  tvg-logo="http://tv.team/images/chIcons/666.png"  timeshift="3", Nicktoons
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch666/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAEpKpShv8vGxTozekpYletc2Tj2P3o1YkkDA9KimuA5
+#EXTINF:0 tvg-name="ch258"  tvg-logo="http://tv.team/images/chIcons/258.png"  timeshift="3", Nitro HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch258/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLTnnl0V-PWLyKH0etc50yAGsD2kVjC7c8OcBJ_nUpYS
+#EXTINF:0 tvg-name="ch330"  tvg-logo="http://tv.team/images/chIcons/330.png"  timeshift="3", ORF 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch330/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMWTqPODH_GSxOWhPaIJkf6YMf2_NGBgRTwDxIwKm5ZB
+#EXTINF:0 tvg-name="ch329"  tvg-logo="http://tv.team/images/chIcons/329.png"  timeshift="3", ORF 2 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch329/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGf2uNb4dSXRFxIYxlIP8PXSs3eBR6xcGlxn2yS1_4OU
+#EXTINF:0 tvg-name="ch544"  tvg-logo="http://tv.team/images/chIcons/544.png"  timeshift="0", ORF 3
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch544/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdArKVoaaNxiadkbPjbEwlRcu0HWQEDg7ylYpT3mkQnQm
+#EXTINF:0 tvg-name="ch261"  tvg-logo="http://tv.team/images/chIcons/261.png"  timeshift="3", PRO 7 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch261/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFNXlPfk9CNYKn1Pr5aZ5WzF3zZrgBf-WtZx_A4RmViI
+#EXTINF:0 tvg-name="ch245"  tvg-logo="http://tv.team/images/chIcons/245.png"  timeshift="3", PRO 7 Fun HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch245/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFcbLhYfpae7QMkA2JzZSrda4wG8QhWXs987oeHxDP_Q
+#EXTINF:0 tvg-name="ch262"  tvg-logo="http://tv.team/images/chIcons/262.png"  timeshift="3", PRO 7 Maxx HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch262/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHrH5MlkXSE1f1G4vFgXdPUUTK64YVYLZZO72pb017Os
+#EXTINF:0 tvg-name="ch239"  tvg-logo="http://tv.team/images/chIcons/239.png"  timeshift="3", Phoenix HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch239/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCTV2Z_iXs0hrcXVSoZkr0qTrxTBzFgyu9TtaWg_7aOQ
+#EXTINF:0 tvg-name="ch457"  tvg-logo="http://tv.team/images/chIcons/457.png"  timeshift="3", Puls 4 Austria
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch457/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAxMoyT2d6EeL0sF_65sw5M0vuWYApxNygtiZFFyQFGY
+#EXTINF:0 tvg-name="ch257"  tvg-logo="http://tv.team/images/chIcons/257.png"  timeshift="6", RTL HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch257/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMldFhr2GeZn5L1qjhtncUafM74k7vSjLCxCnwmnjpu5
+#EXTINF:0 tvg-name="ch256"  tvg-logo="http://tv.team/images/chIcons/256.png"  timeshift="6", RTL 2 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch256/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEgcgP6kvm41XkLH25IDqCMVbcOprIO78sGtjSUSawWF
+#EXTINF:0 tvg-name="ch178"  tvg-logo="http://tv.team/images/chIcons/178.png"  timeshift="6", RTL Crime HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch178/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLpeRKilDytZ-ghNPUnu77IIqtl500detWCVjkILtQ3I
+#EXTINF:0 tvg-name="ch259"  tvg-logo="http://tv.team/images/chIcons/259.png"  timeshift="6", RTL Living HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch259/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJYwZTqEk8dPudb9PC5Aj0qe8Icesxz2QJHMK2Zax3uf
+#EXTINF:0 tvg-name="ch276"  tvg-logo="http://tv.team/images/chIcons/276.png"  timeshift="6", RTL Passion HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch276/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP2-GM0L3f62HiebGxeE3AbMHl9IXFvfi6TqJqvRrnpc
+#EXTINF:0 tvg-name="ch179"  tvg-logo="http://tv.team/images/chIcons/179.png"  timeshift="3", Romance TV
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch179/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAQFtCBz4e16R19TKL7BgHDS4NFT7HUzJSq8KsMQKIrh
+#EXTINF:0 tvg-name="ch186"  tvg-logo="http://tv.team/images/chIcons/186.png"  timeshift="3", Sky Sport News HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch186/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLTCsHjYPj2CY4KtBwBQ6HOGqgI_Frbd2H2Lzo4RJS_j
+#EXTINF:0 tvg-name="ch149"  tvg-logo="http://tv.team/images/chIcons/149.png"  timeshift="0", Sky Sport 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch149/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPsnu79m-c2yz0dMSAzhlrG-smMiZDumaIVZgb2SQ7h8
+#EXTINF:0 tvg-name="ch150"  tvg-logo="http://tv.team/images/chIcons/150.png"  timeshift="0", Sky Sport 2 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch150/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGb7gStebK3cHYiF5s4zR9PeBkm3xAuqmLLMj9JHQ1od
+#EXTINF:0 tvg-name="ch194"  tvg-logo="http://tv.team/images/chIcons/194.png"  timeshift="0", Sky Sport 3 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch194/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC7W2naYS76Z61MjaZd5SkvxASs2G3ZhNn5DCx-C2ox4
+#EXTINF:0 tvg-name="ch195"  tvg-logo="http://tv.team/images/chIcons/195.png"  timeshift="0", Sky Sport 4 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch195/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNcW4Sm93j-gQewU4TSiBdLkJXVg-Gk9KNUUPYa0fHfz
+#EXTINF:0 tvg-name="ch196"  tvg-logo="http://tv.team/images/chIcons/196.png"  timeshift="0", Sky Sport 5 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch196/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEYe-zepKegLLegO6inyOxqR3GBu3x7yAhBx8W-bcjsB
+#EXTINF:0 tvg-name="ch197"  tvg-logo="http://tv.team/images/chIcons/197.png"  timeshift="0", Sky Sport 6 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch197/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdESHjx7PMKSKivNRrcSgGrs4sj1E5TOQ9NAF8K9LaWjs
+#EXTINF:0 tvg-name="ch151"  tvg-logo="http://tv.team/images/chIcons/151.png"  timeshift="0", Sky Sport Bundesliga 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch151/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA3hcPWKhmwm8MsYxzEdG7wM1e7dEWsjxcOe9Y2YvTDJ
+#EXTINF:0 tvg-name="ch152"  tvg-logo="http://tv.team/images/chIcons/152.png"  timeshift="0", Sky Sport Bundesliga 2 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch152/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLVf0gLgv2_fUnOaSJjkOkqdgqd6Kur7Y7jW6h1gfurV
+#EXTINF:0 tvg-name="ch199"  tvg-logo="http://tv.team/images/chIcons/199.png"  timeshift="0", Sky Sport Bundesliga 3 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch199/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLqXzGQp0egQFmtNCWZCq4E-IcCk2XdfBZf_e0d8Hndd
+#EXTINF:0 tvg-name="ch200"  tvg-logo="http://tv.team/images/chIcons/200.png"  timeshift="0", Sky Sport Bundesliga 4 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch200/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCakIo8OJ0Mr1sLPyenzXHJ9PIm1CtBBXtoZ13OALISb
+#EXTINF:0 tvg-name="ch201"  tvg-logo="http://tv.team/images/chIcons/201.png"  timeshift="0", Sky Sport Bundesliga 5 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch201/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGnL68fIiGiP5NgAWQlnp3b7DpbfoDslV8o8UnNRkD5x
+#EXTINF:0 tvg-name="ch202"  tvg-logo="http://tv.team/images/chIcons/202.png"  timeshift="0", Sky Sport Bundesliga 6 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch202/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNjJxjwsImVR-wBR83eynakyhe2oLaLyS8AjtKGyuEMH
+#EXTINF:0 tvg-name="ch203"  tvg-logo="http://tv.team/images/chIcons/203.png"  timeshift="0", Sky Sport Bundesliga 7 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch203/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC5CNdLv0bYmuHViv-AeoLNRRrWiQaBn5ydvKDmDZzZw
+#EXTINF:0 tvg-name="ch204"  tvg-logo="http://tv.team/images/chIcons/204.png"  timeshift="0", Sky Sport Bundesliga 8 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch204/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdInsgdiiY96h-fI5DivbTsRYso3hvAXTAiD9J8MXPDjt
+#EXTINF:0 tvg-name="ch205"  tvg-logo="http://tv.team/images/chIcons/205.png"  timeshift="0", Sky Sport Bundesliga 9 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch205/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOeTWvr3AQ2jUtnpyPJCTdnTNDQmwn0Uw7oXUIZfwrnF
+#EXTINF:0 tvg-name="ch198"  tvg-logo="http://tv.team/images/chIcons/198.png"  timeshift="3", Sky Sport Austria 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch198/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdChLOo7h-5M14tQHuE4kP7LfuNdrTt4aMCljTQ31bmLx
+#EXTINF:0 tvg-name="ch156"  tvg-logo="http://tv.team/images/chIcons/156.png"  timeshift="3", Sky Cinema Premieren HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch156/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH9SiDQz51R-hUuk7ew6gXIR-N2UIl9QUtRsqWtr3gAZ
+#EXTINF:0 tvg-name="ch166"  tvg-logo="http://tv.team/images/chIcons/166.png"  timeshift="3", Sky Cinema Highlights HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch166/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBKdKBpPjbN4eninAgljaoYCnR5Vx4NZD0YalYmRmczQ
+#EXTINF:0 tvg-name="ch155"  tvg-logo="http://tv.team/images/chIcons/155.png"  timeshift="3", Sky Cinema Action HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch155/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPugbPBI6dUg8ZaeKxoAEJz4x6ZfDogGFrm-ucYgS0D4
+#EXTINF:0 tvg-name="ch185"  tvg-logo="http://tv.team/images/chIcons/185.png"  timeshift="3", Sky Cinema Classics HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch185/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBY-RDdUBqg--2UMYrWt04a3nuBbnf5Uvkndj6hd_YUA
+#EXTINF:0 tvg-name="ch157"  tvg-logo="http://tv.team/images/chIcons/157.png"  timeshift="3", Sky Cinema Family HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch157/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM8VGu25LX9MI287_N4CV8X4dz_3b1NYY4ZTa8J-OfnA
+#EXTINF:0 tvg-name="ch153"  tvg-logo="http://tv.team/images/chIcons/153.png"  timeshift="3", Sky 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch153/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC5RoBrtN5_05UmNDKJefNT0gIwHT2v94FIHkaBWXGdn
+#EXTINF:0 tvg-name="ch970"  tvg-logo="http://tv.team/images/chIcons/970.png"  timeshift="3", Sky Nature HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch970/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKTMGRVtWu_1IpJ1j0eqZVmQQ_mtgcWWpAXQNuC9SXo4
+#EXTINF:0 tvg-name="ch1911"  tvg-logo="http://tv.team/images/chIcons/1911.png"  timeshift="0", Sky Showcase HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1911/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVuwFnrCbdOYG9Y09DG3z_JkDGAyV03DKlNMHLI8m5q
+#EXTINF:0 tvg-name="ch181"  tvg-logo="http://tv.team/images/chIcons/181.png"  timeshift="3", Sky Atlantic HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch181/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBUsJl6cYGvhPTUlHghUAIxnig2rdNZIph2k65_zMDlv
+#EXTINF:0 tvg-name="ch169"  tvg-logo="http://tv.team/images/chIcons/169.png"  timeshift="3", Sky Replay
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch169/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK32G0czFrhj6m5ReSuhktB2_4eumxWi3yZF5kphw7E1
+#EXTINF:0 tvg-name="ch1344"  tvg-logo="http://tv.team/images/chIcons/1344.png"  timeshift="3", Sky Crime HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1344/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHmORDg3Dx-5Ue453HfzTNm13NZf96RRcbMPSF4rhDgd
+#EXTINF:0 tvg-name="ch173"  tvg-logo="http://tv.team/images/chIcons/173.png"  timeshift="3", Sky Krimi HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch173/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdApp3JBAkS01X4-Jxg_D_4Smow_c4c3B2XcTT2WNNPCI
+#EXTINF:0 tvg-name="ch331"  tvg-logo="http://tv.team/images/chIcons/331.png"  timeshift="3", Sky Documentaries HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch331/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJk9-tD1O_hEwjy9DOGauiNSkZrSd-5yYiZIeX29pZxl
+#EXTINF:0 tvg-name="ch263"  tvg-logo="http://tv.team/images/chIcons/263.png"  timeshift="3", Sport1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch263/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFK1LqhjDZeyJh5SbpF-8zinpMC27hNwpr_RLHhv9N2_
+#EXTINF:0 tvg-name="ch264"  tvg-logo="http://tv.team/images/chIcons/264.png"  timeshift="3", Sport1+ HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch264/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDEPq2bnzMAkJEneKyIepWr_r2GEuoeFTRlT20b7VqVv
+#EXTINF:0 tvg-name="ch2006"  tvg-logo="http://tv.team/images/chIcons/2006.png"  timeshift="3", Sportdigital Fussball HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch2006/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOTM1_0NpSmQIR9YJMg9FoYMby4KPc5dyyKIV1Y-hopS
+#EXTINF:0 tvg-name="ch241"  tvg-logo="http://tv.team/images/chIcons/241.png"  timeshift="3", SAT1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch241/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIiw-eWr3zGkg0-tJa04DKTefbUtqWXbii4KEYRNcpjZ
+#EXTINF:0 tvg-name="ch244"  tvg-logo="http://tv.team/images/chIcons/244.png"  timeshift="3", SAT1 Gold HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch244/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBuEtIkt5mdSkA60WN2rKX4tVWGHCfwFX0NWHSMYPVca
+#EXTINF:0 tvg-name="ch1946"  tvg-logo="http://tv.team/images/chIcons/1946.png"  timeshift="0", SAT1 Emotions
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1946/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLbbisK6Imn2-_ae4V_uOOs8Bb_dX7FrupPEYo1_irf1
+#EXTINF:0 tvg-name="ch260"  tvg-logo="http://tv.team/images/chIcons/260.png"  timeshift="6", Super RTL HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch260/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAJVhARZebMxGjlQyrznmGfjpR_L_Zr45r9UQP4HWrV-
+#EXTINF:0 tvg-name="ch180"  tvg-logo="http://tv.team/images/chIcons/180.png"  timeshift="3", SYFY HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch180/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJz8Mtmqino6-K3gefqOKEQxHwHgXl58nKQnEjBtPu8I
+#EXTINF:0 tvg-name="ch187"  tvg-logo="http://tv.team/images/chIcons/187.png"  timeshift="3", Sony AXN HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch187/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAbl8nhIvWvTfNSBDIDDKrtaBsrneD3brGHT5nbLDlv9
+#EXTINF:0 tvg-name="ch274"  tvg-logo="http://tv.team/images/chIcons/274.png"  timeshift="3", Sony Entertainment TV HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch274/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLb5AEDSe6jSOLEuRWrvBAahvtWZCHbn3qwbkAYt5Boi
+#EXTINF:0 tvg-name="ch313"  tvg-logo="http://tv.team/images/chIcons/313.png"  timeshift="3", Sonnenklar TV
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch313/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPWNxOy6x8KVqys2NA0WhtTDRGv7c55K36VGXbQLp8ZI
+#EXTINF:0 tvg-name="ch207"  tvg-logo="http://tv.team/images/chIcons/207.png"  timeshift="0", Spiegel Geschichte HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch207/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGi4Tuq5Kw5VsuzAJBVeAOJv2S8wwdMTFj1tf0rlMd_0
+#EXTINF:0 tvg-name="ch280"  tvg-logo="http://tv.team/images/chIcons/280.png"  timeshift="3", Spiegel TV Wissen HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch280/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK2kVOHi-Vl0MmnyHZ5Zw5Lgtrbt74mwdrpnwB3fCHZr
+#EXTINF:0 tvg-name="ch254"  tvg-logo="http://tv.team/images/chIcons/254.png"  timeshift="3", Sixx HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch254/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNU_Dzvn09ZeJY82uJvS6Dr02Feowl10fR6VbP8kp_nt
+#EXTINF:0 tvg-name="ch188"  tvg-logo="http://tv.team/images/chIcons/188.png"  timeshift="0", Telekom Sport 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch188/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdI9PQLkqkJZER8UmdRtUN9jA1zD2v58FbDTNvX9ecRWr
+#EXTINF:0 tvg-name="ch189"  tvg-logo="http://tv.team/images/chIcons/189.png"  timeshift="0", Telekom Sport 2 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch189/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOjSO8HGs3d4O2vus3UUs8ElcUPDGnagzxR2xOPL3tTE
+#EXTINF:0 tvg-name="ch190"  tvg-logo="http://tv.team/images/chIcons/190.png"  timeshift="0", Telekom Sport 3 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch190/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMQaqdnmlyhjZeHgLFaMfnDNek1RfVZv16VEdH9KxpU3
+#EXTINF:0 tvg-name="ch191"  tvg-logo="http://tv.team/images/chIcons/191.png"  timeshift="0", Telekom Sport 4 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch191/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOYeqTo-JRd6JDYdGb1PzQssDLwgUr74is_Rz6mEo5Af
+#EXTINF:0 tvg-name="ch192"  tvg-logo="http://tv.team/images/chIcons/192.png"  timeshift="0", Telekom Sport 5 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch192/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAisiBLeTWLDIlb_YxbfoEOxNCzabwO7bDFxVP4LBSlA
+#EXTINF:0 tvg-name="ch193"  tvg-logo="http://tv.team/images/chIcons/193.png"  timeshift="0", Telekom Sport 6 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch193/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKSq2Z-tpyKBy-vJM1vtAP445N1t2qdoNmjQpJZo8hg6
+#EXTINF:0 tvg-name="ch212"  tvg-logo="http://tv.team/images/chIcons/212.png"  timeshift="0", Telekom Sport 7 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch212/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPL1ihBG0EPji8qt8fYQcbuWUwNBq5PdJkE58-BaMSkD
+#EXTINF:0 tvg-name="ch275"  tvg-logo="http://tv.team/images/chIcons/275.png"  timeshift="3", Tele 5 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch275/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKNgDGZ_KhELJkD8AYWEyPnpgGNwkciSkmnIdTxG6hVg
+#EXTINF:0 tvg-name="ch283"  tvg-logo="http://tv.team/images/chIcons/283.png"  timeshift="3", Toggo Plus
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch283/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCnGJKd635GW7q3Ti8pNVyhgC5UjFCZUBxyLoEPiM4Ns
+#EXTINF:0 tvg-name="ch160"  tvg-logo="http://tv.team/images/chIcons/160.png"  timeshift="3", TLC HD DE
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch160/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPoVE_5hLaCf3Qx4MJg5h0EaVpk0rrJjWY_uL5c1ajgT
+#EXTINF:0 tvg-name="ch269"  tvg-logo="http://tv.team/images/chIcons/269.png"  timeshift="3", Tagesschau 24 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch269/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOe6M-cQ7l2yEfkvWabtHI-AKZqhiDvMYZcb3bbt5EkE
+#EXTINF:0 tvg-name="ch211"  tvg-logo="http://tv.team/images/chIcons/211.png"  timeshift="3", Universal TV HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch211/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHy8EJizxaxkS9f3ZXZPCnUOf_j2Ah5xYUdVMkqEePv5
+#EXTINF:0 tvg-name="ch240"  tvg-logo="http://tv.team/images/chIcons/240.png"  timeshift="3", VOX HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch240/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOQBwxmVzFCq3Odkwjy-QQQMsNsMa2EokHwxD82po48A
+#EXTINF:0 tvg-name="ch184"  tvg-logo="http://tv.team/images/chIcons/184.png"  timeshift="0", VoxUP
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch184/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOMCW8Nf4bJkkENxlh7ZsPGUlUwhBqz6MuT_IwGfI3gu
+#EXTINF:0 tvg-name="ch209"  tvg-logo="http://tv.team/images/chIcons/209.png"  timeshift="3", Warner TV Film HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch209/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLhGvtDnPHHGqZBUJraAMpgdsF9oYA33x8HQWTdZwWjT
+#EXTINF:0 tvg-name="ch210"  tvg-logo="http://tv.team/images/chIcons/210.png"  timeshift="3", Warner TV Serie HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch210/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdORJhdrgcopyRwyEFDnPZUgyIBLWl9Pppw6GXq063CDz
+#EXTINF:0 tvg-name="ch208"  tvg-logo="http://tv.team/images/chIcons/208.png"  timeshift="3", Warner TV Comedy HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch208/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO6q1MtkFMp1TpmsLEgFT5J5bNjjE1A7x4eKk8_6ZrW2
+#EXTINF:0 tvg-name="ch472"  tvg-logo="http://tv.team/images/chIcons/472.png"  timeshift="3", WDR Fernsehen HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch472/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCaIT17GL3o2qnc0vYOtRMOq8G8cjHOIdpnSmuyWkGnt
+#EXTINF:0 tvg-name="ch268"  tvg-logo="http://tv.team/images/chIcons/268.png"  timeshift="3", Welt HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch268/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKi6fLch9kAqGMpvkn6fBWDUlHoc60zspebIeYW-CR0g
+#EXTINF:0 tvg-name="ch266"  tvg-logo="http://tv.team/images/chIcons/266.png"  timeshift="3", ZDF HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch266/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDQNYr3BHOxvRTequdNZGum5Tyy8TovvRXvTQAQsAs9J
+#EXTINF:0 tvg-name="ch272"  tvg-logo="http://tv.team/images/chIcons/272.png"  timeshift="3", ZDF Neo
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch272/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMh52aAmDP3cGMKQDSvRvrssAbZ--8dW4UZCYWBBIQet
+#EXTINF:0 tvg-name="ch355"  tvg-logo="http://tv.team/images/chIcons/355.png"  timeshift="3", ZDF INFO
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch355/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNWtTK6OLIfdbDZgjT1aw0Ud3a-jR98Rmf3dz8PUs0Y3
+#EXTINF:0 tvg-name="ch1924"  tvg-logo="http://tv.team/images/chIcons/1924.png"  timeshift="0", Zwei Music Television
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1924/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPubedj_F5Tszo0kmc_tamzM_J3BgSsUriaMBU4p6iFA
+#EXTINF:0 tvg-name="ch338"  tvg-logo="http://tv.team/images/chIcons/338.png"  timeshift="0", Germany Box Action HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch338/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGKomOBe8B18iGwDk-NDOpebwKc8kz8-U-sQCFc-MevY
+#EXTINF:0 tvg-name="ch339"  tvg-logo="http://tv.team/images/chIcons/339.png"  timeshift="0", Germany Box Comedy HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch339/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDN3FP64JzjI0XFFLlroIMmqj9ewnfRMvSw45mzsoXdk
+#EXTINF:0 tvg-name="ch340"  tvg-logo="http://tv.team/images/chIcons/340.png"  timeshift="0", Germany Box Family HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch340/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLgjtqfxIZfATfynD-bzcBXi6c5bOeNBFc6_G6qYGj9P
+#EXTINF:0 tvg-name="ch341"  tvg-logo="http://tv.team/images/chIcons/341.png"  timeshift="0", Germany Box Horror HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch341/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPXpiwnw4zwyhmofVlW9to9tbT34JCXGxyODHP0dMhR0
+#EXTINF:0 tvg-name="ch342"  tvg-logo="http://tv.team/images/chIcons/342.png"  timeshift="0", Germany Box Science HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch342/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOSZ_60XLrUro8FeeElrJxNuZkTrcJCUprb5UlTeIKQq
+#EXTINF:0 tvg-name="ch343"  tvg-logo="http://tv.team/images/chIcons/343.png"  timeshift="0", Germany Box Thriller HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch343/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMA9pyqEyR-plvBbhcZPQ6dnmzFuY1HsrOqHUwWMwiDl
+#EXTINF:0 tvg-name="ch344"  tvg-logo="http://tv.team/images/chIcons/344.png"  timeshift="0", Germany Box Vision HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch344/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIBsbT82-jLXsJpfTYtP3MxuWU6LoQ1sQpAymGNc04K8
+#EXTINF:0 tvg-name="ch345"  tvg-logo="http://tv.team/images/chIcons/345.png"  timeshift="0", Germany Box Drama HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch345/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCkvD1pBeOgMzr6Httho8JJekdDgB_vRBda1czprGGZS
+#EXTINF:0 tvg-name="ch346"  tvg-logo="http://tv.team/images/chIcons/346.png"  timeshift="0", Germany Box Western HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch346/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJ3LfXkNwJ3XE3nEGbB0MzT3k5lO1j8PNpkyPT4nDFHX
+#EXTINF:0 tvg-name="ch347"  tvg-logo="http://tv.team/images/chIcons/347.png"  timeshift="0", Germany Box Amazon Prime HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch347/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGk59KzRTrl0CJiHnlnvMEmSkK-q1mn00np-pFFiLwR3
+#EXTINF:0 tvg-name="ch349"  tvg-logo="http://tv.team/images/chIcons/349.png"  timeshift="0", Germany Box Netflix HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch349/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIP0PTRXTEb442owmneiUvnVVrtGkxbrcqhC1xtBJ_iT
+#EXTINF:0 tvg-name="ch350"  tvg-logo="http://tv.team/images/chIcons/350.png"  timeshift="0", Germany Box Disney+ HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch350/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJWDljU3fkMLmjJjm2RTgZmZ9P5ZdEB0zd1bpdXrENwA
+#EXTINF:0 tvg-name="ch1345"  tvg-logo="http://tv.team/images/chIcons/1345.png"  timeshift="0", Germany Kids Filme 1
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1345/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdF-k8hv_AnS1T4NH7HBmI65JWUCkd4WSwL_HtqdrhRfq
+#EXTINF:0 tvg-name="ch2120"  tvg-logo="http://tv.team/images/chIcons/2120.png"  timeshift="0", Germany Kids Filme 2
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch2120/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJzJ7SSXT-No7SYOq6_I9R1umfhmVciQ8uoLUIXHGGqp
+#EXTINF:0 tvg-name="ch599"  tvg-logo="http://tv.team/images/chIcons/599.png"  timeshift="0", Max Premiere HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch599/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMZ82eqU_UEGXF8WlTWCf0uIsFa2tVIT_yKxJCgsxNCq
+#EXTINF:0 tvg-name="ch352"  tvg-logo="http://tv.team/images/chIcons/352.png"  timeshift="0", Max Select 1 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch352/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDMGkwszwIPVxGZaoMplrSE9Y5YPQnY3-MsEoIi_NmJi
+#EXTINF:0 tvg-name="ch351"  tvg-logo="http://tv.team/images/chIcons/351.png"  timeshift="0", Max Select 2 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch351/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBBEDvzIIN2vCM05S3PV573cjKD7y1JkRd5YiAbrj6Bm
+#EXTINF:0 tvg-name="ch354"  tvg-logo="http://tv.team/images/chIcons/354.png"  timeshift="0", Max Select 3 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch354/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdABX6IH9Htv6o8AAR_9h5MA5dDkMjK5NqjRvlIJSdfQ3
+#EXTINF:0 tvg-name="ch356"  tvg-logo="http://tv.team/images/chIcons/356.png"  timeshift="0", Max Select 4 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch356/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK8Zh6xho8MR8EJlPabYYgBm7IbBZN_JFebcnj6ljcBV
+#EXTINF:0 tvg-name="ch357"  tvg-logo="http://tv.team/images/chIcons/357.png"  timeshift="0", Max Select 5 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch357/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMjsqKuTJKGo0JAcUfF6dKSaD35gjvzwBLOaqu-xyCRC
+#EXTINF:0 tvg-name="ch294"  tvg-logo="http://tv.team/images/chIcons/294.png"  timeshift="0", Max Select 6 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch294/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFLQsgrT8-e8UQYOEZFmX7Gqv8kNctcjsFlO9qznuv2B
+#EXTINF:0 tvg-name="ch293"  tvg-logo="http://tv.team/images/chIcons/293.png"  timeshift="0", Max Select 7 HD
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch293/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLRoGhRfP__4Q-mM4kLYrtsPJ0JCWH1dOOPQ1FIoH0v_
+#EXTINF:0 tvg-name="ch348"  tvg-logo="http://tv.team/images/chIcons/348.png"  timeshift="0", Max Select 1 4K
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch348/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLin5wuIqlhqcnrQP2bV3I3rs02uZNOrY0sFlZd_taX7
+#EXTINF:0 tvg-name="ch1169"  tvg-logo="http://tv.team/images/chIcons/1169.png"  timeshift="0", Max Select 2 4K
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1169/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdI9w7WxaP-VK48Ec8H9KiunvELgbJOrxlZ6hIhLLXA8o
+#EXTINF:0 tvg-name="ch1165"  tvg-logo="http://tv.team/images/chIcons/1165.png"  timeshift="0", Max Select 3 4K
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1165/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMII2CZqQBJ3WaWitE5MG62XOn9S1IYVUaD04qJmvIbz
+#EXTINF:0 tvg-name="ch1548"  tvg-logo="http://tv.team/images/chIcons/1548.png"  timeshift="0", Max Select 4 4K
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch1548/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP5UmKX__sV0Uvmu-0DzyH11E5dTtmDHz81Kx7nJZybN
+#EXTINF:0 tvg-name="ch734"  tvg-logo="http://tv.team/images/chIcons/734.png"  timeshift="0", EU Cinema Select 1
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch734/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHHwmbmZ4_enDwUZ1dfeAhDLkom66gYktQbyw9FBBSFK
+#EXTINF:0 tvg-name="ch735"  tvg-logo="http://tv.team/images/chIcons/735.png"  timeshift="0", EU Cinema Select 2
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch735/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAstxYCLmMr3qWTKgdg7ADJg8LFE99CwzoIHtk1x6KJa
+#EXTINF:0 tvg-name="ch736"  tvg-logo="http://tv.team/images/chIcons/736.png"  timeshift="0", EU Cinema Select 3
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch736/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD-AX0rTgJwu_-zTkHU1eDE8uD9QjhBC5yY6c1L4DD_U
+#EXTINF:0 tvg-name="ch737"  tvg-logo="http://tv.team/images/chIcons/737.png"  timeshift="0", EU Cinema Select 4
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch737/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL_4lxKWLpWOJ3UjDHhcMA-RJPUqjclWwJpNwco2aF5r
+#EXTINF:0 tvg-name="ch738"  tvg-logo="http://tv.team/images/chIcons/738.png"  timeshift="0", EU Cinema Select 5
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch738/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFzKF1NKnL7s2AKpR-oy-iKEgvVoIpITRRbhgROV9F2e
+#EXTINF:0 tvg-name="ch739"  tvg-logo="http://tv.team/images/chIcons/739.png"  timeshift="0", EU Cinema Select 6
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch739/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOm5en4Ch2A6vElM5IL4HWorHitalHMtNlztsF8AZLe6
+#EXTINF:0 tvg-name="ch740"  tvg-logo="http://tv.team/images/chIcons/740.png"  timeshift="0", EU Cinema Select 7
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch740/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHm1kuzH9Vj_oL07Oh77G5iH5wIjd-rWhSzgWVk001zJ
+#EXTINF:0 tvg-name="ch741"  tvg-logo="http://tv.team/images/chIcons/741.png"  timeshift="0", EU Cinema Kids
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch741/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMMapkHpUqGDtZiP0_8GZ49vh4geP32UFvIm9Hk83Oy2
+#EXTINF:0 tvg-name="ch742"  tvg-logo="http://tv.team/images/chIcons/742.png"  timeshift="0", EU Cinema 4k
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch742/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHs_8ZsGm03EWyT1G7Hfk8TFILLfZ-hKWjCyDkOk0NwE
+#EXTINF:0 tvg-name="ch743"  tvg-logo="http://tv.team/images/chIcons/743.png"  timeshift="0", EU Cinema Star Wars
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch743/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP-GtdkwwTNmZteEMH884Or5pH-v0PzvFSFQEbZdKfhh
+#EXTINF:0 tvg-name="ch744"  tvg-logo="http://tv.team/images/chIcons/744.png"  timeshift="0", EU Cinema KinoBox 1
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch744/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBFMoiXCicvDsL4ir9Ur_CbDgXWIXB-x5sf0tabuEYpS
+#EXTINF:0 tvg-name="ch745"  tvg-logo="http://tv.team/images/chIcons/745.png"  timeshift="0", EU Cinema KinoBox 2
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch745/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAycZdu-4xIEvG6y0Sjk3GtyWRGs2USFJr-DLNXTygmx
+#EXTINF:0 tvg-name="ch746"  tvg-logo="http://tv.team/images/chIcons/746.png"  timeshift="0", EU Cinema KinoBox 3
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch746/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK6hBX8pRNNpKHt0Ygw8yep4eJJEKh7n9pmis3z8kN6v
+#EXTINF:0 tvg-name="ch747"  tvg-logo="http://tv.team/images/chIcons/747.png"  timeshift="0", EU Cinema KinoBox 4
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch747/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIIPDDKxF9sqi7OIq02YHelnol7x5KlEfqYiMjmPUEba
+#EXTINF:0 tvg-name="ch748"  tvg-logo="http://tv.team/images/chIcons/748.png"  timeshift="0", EU Cinema Will Smith
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch748/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdApDG4xHErc23ZVaG2iv32V11x0_hhssPXvZz_zphfjQ
+#EXTINF:0 tvg-name="ch749"  tvg-logo="http://tv.team/images/chIcons/749.png"  timeshift="0", EU Cinema Wesley Snipes
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch749/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLEiAi1eC25H25HPTtVdlOcfUYPzjogfM5K5J4bx2T_n
+#EXTINF:0 tvg-name="ch750"  tvg-logo="http://tv.team/images/chIcons/750.png"  timeshift="0", EU Cinema Van Damme
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch750/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMnznvRvtcd3OoJXKljQZBUTW1Z7LDSstINji0jYrml2
+#EXTINF:0 tvg-name="ch751"  tvg-logo="http://tv.team/images/chIcons/751.png"  timeshift="0", EU Cinema Sylvester Stallone
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch751/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFDpHgQUds7RhM8jsgNGXrpyadm-frFslmtHn3Odim2K
+#EXTINF:0 tvg-name="ch752"  tvg-logo="http://tv.team/images/chIcons/752.png"  timeshift="0", EU Cinema Jet Li
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch752/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHQaq3M7D5W140PgSvIa6Xx67r66LZCIVFcil3taKu6k
+#EXTINF:0 tvg-name="ch753"  tvg-logo="http://tv.team/images/chIcons/753.png"  timeshift="0", EU Cinema Jason Statham
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch753/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC3ppkrqWy-2mKNfdRvz3rQ8gDaDwOTUYcoGyWEy4_k7
+#EXTINF:0 tvg-name="ch754"  tvg-logo="http://tv.team/images/chIcons/754.png"  timeshift="0", EU Cinema Jackie Chan
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch754/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL_KNht9HnKEnS0AF7uaJ8jBy6JaJjlXO__dWJB2wmjX
+#EXTINF:0 tvg-name="ch755"  tvg-logo="http://tv.team/images/chIcons/755.png"  timeshift="0", EU Cinema Dwayne Johnson
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch755/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOe0C-yiWA7mHW7eODsgOXt9K9CUWb_4vRctke_WODRI
+#EXTINF:0 tvg-name="ch756"  tvg-logo="http://tv.team/images/chIcons/756.png"  timeshift="0", EU Cinema Cameron Diaz
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch756/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNa06UQXGP7HJMLEOlVQ0gp8hBTl2FCaDGj9MpBwnO0n
+#EXTINF:0 tvg-name="ch757"  tvg-logo="http://tv.team/images/chIcons/757.png"  timeshift="0", EU Cinema Bruce Willis
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch757/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL6WxnbC4OGYodxMmV2LD2qtsHx4G5CRKRY7LfQRR5zf
+#EXTINF:0 tvg-name="ch758"  tvg-logo="http://tv.team/images/chIcons/758.png"  timeshift="0", EU Cinema Arnold Schwarzenegger
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch758/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFiQqZfocJnRv_OaPJUiHPQ7Ya5z2RRfHxTAUuU4E9PW
+#EXTINF:0 tvg-name="ch759"  tvg-logo="http://tv.team/images/chIcons/759.png"  timeshift="0", EU Cinema Angelina Jolie
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch759/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBO5tGD3RNxeyL3ecpmfj1zPrOHGGGfEWp7I0gDwMsJO
+#EXTINF:0 tvg-name="ch760"  tvg-logo="http://tv.team/images/chIcons/760.png"  timeshift="0", EU Cinema Alpacino
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch760/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEsILF3m2KASr9GphhyA0Y8FjFg9an3N9RTcMYVOzmmN
+#EXTINF:0 tvg-name="ch761"  tvg-logo="http://tv.team/images/chIcons/761.png"  timeshift="0", EU Cinema Show: Heute Show
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch761/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIYFm98iwxKNxt5WSTQ3hBSUwCyDWFXKe3UcBFEDQhRQ
+#EXTINF:0 tvg-name="ch762"  tvg-logo="http://tv.team/images/chIcons/762.png"  timeshift="0", EU Cinema Show: Harald Schmidt Show
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch762/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMxDJqZZ6tIXneanuZfp6sz-gK2yW8TfppSj3oEcuALN
+#EXTINF:0 tvg-name="ch763"  tvg-logo="http://tv.team/images/chIcons/763.png"  timeshift="0", EU Cinema Series 7 24 Game of Thrones
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch763/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCJu0xQBglxeW3dbxY7z34R0OrPKx_OFNOQoPRX4Q2KY
+#EXTINF:0 tvg-name="ch764"  tvg-logo="http://tv.team/images/chIcons/764.png"  timeshift="0", EU Cinema Series 7 24: Breaking Bad
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch764/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMf4d_zuhdFMa_bK9WJ1ywCh3NaffW5qObX3qaxdrs8R
+#EXTINF:0 tvg-name="ch766"  tvg-logo="http://tv.team/images/chIcons/766.png"  timeshift="0", EU Cinema Series 7 24: La Casa de Papel
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch766/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLd4yJp3uM0X6h4HN6txFVNPJn-HNvxYYbXl2_MpjHKk
+#EXTINF:0 tvg-name="ch767"  tvg-logo="http://tv.team/images/chIcons/767.png"  timeshift="0", EU Cinema Series 7 24: The Big Bang Theorie
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch767/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNwZ1o48rfdTG8iwl9UI2ZEwNFSLP1xmCAu-Y3uex7fw
+#EXTINF:0 tvg-name="ch768"  tvg-logo="http://tv.team/images/chIcons/768.png"  timeshift="0", EU Cinema Series 7 24: How I Met Your Mother
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch768/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKibBsfOPG6Ve0PxOmbL0ogC63Cfz2ZM5WuEC99bEpAn
+#EXTINF:0 tvg-name="ch360"  tvg-logo="http://tv.team/images/chIcons/360.png"  timeshift="0", EU Cinema Series 7 24: Walking Dead
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch360/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdId6WfshAxL5kRa29OdXeKeqa_kG_6x8fDb2aXV2Rz3T
+#EXTINF:0 tvg-name="ch973"  tvg-logo="http://tv.team/images/chIcons/973.png"  timeshift="0", EU Cinema Horror
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch973/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE5ZG6CU9tfH_s9QlsrBSBfheGkASXeLMypmCqnK7rnr
+#EXTINF:0 tvg-name="ch974"  tvg-logo="http://tv.team/images/chIcons/974.png"  timeshift="0", EU Cinema Drama
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch974/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIImJ2re-Rc1mAA2EtLUmrgeBYxrfzpGiX0cGvUsf7YG
+#EXTINF:0 tvg-name="ch975"  tvg-logo="http://tv.team/images/chIcons/975.png"  timeshift="0", EU Cinema Komedie
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch975/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNmCGANBrLOHD88gPKdqhkWng3-QAqIzBBBMUFq2bNPF
+#EXTINF:0 tvg-name="ch976"  tvg-logo="http://tv.team/images/chIcons/976.png"  timeshift="0", EU Cinema Thriller
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch976/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC8fkyoT9scHXXMErh71Zs5SDZ5BKYohGjkCQYpxJE8v
+#EXTINF:0 tvg-name="ch829"  tvg-logo="http://tv.team/images/chIcons/829.png"  timeshift="0", EU Cinema Disney 1
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch829/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNTXa06dA4PJu-n9SR3YKULlpdZuUJvko-ZQtVTnFtP-
+#EXTINF:0 tvg-name="ch830"  tvg-logo="http://tv.team/images/chIcons/830.png"  timeshift="0", EU Cinema Disney 2
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch830/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCqlxt6VFpESR3E1--0VxLsINLYOh2XpW8vLhY5hKCDY
+#EXTINF:0 tvg-name="ch831"  tvg-logo="http://tv.team/images/chIcons/831.png"  timeshift="0", EU Cinema Disney 3
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch831/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIEI_N7tqB2Pk8LzwwbOCDgnjxuz26erUmrMQUWPCgkn
+#EXTINF:0 tvg-name="ch832"  tvg-logo="http://tv.team/images/chIcons/832.png"  timeshift="0", EU Cinema Disney 4
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch832/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKBGf8x0o9Mq5sOrE3J2Hp6SiK3i9er0PwqHFD-m2J-J
+#EXTINF:0 tvg-name="ch844"  tvg-logo="http://tv.team/images/chIcons/844.png"  timeshift="0", EU Cinema Kids: PJ Masks
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch844/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHqYGURvIEdimLQDSkC5Qlx-A5QWSrzhE0SAxbGqkdmg
+#EXTINF:0 tvg-name="ch845"  tvg-logo="http://tv.team/images/chIcons/845.png"  timeshift="0", EU Cinema Kids: Peppa Wutz
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch845/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKGmEbIYPLXAA8n05YKR0mVww2OaKwyCPyXXL8hRjBpk
+#EXTINF:0 tvg-name="ch846"  tvg-logo="http://tv.team/images/chIcons/846.png"  timeshift="0", EU Cinema Kids: Tom und Jerry
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch846/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJIjwlFJBIFyGimp_No_G2r79ocppmFir9lwBd97lG65
+#EXTINF:0 tvg-name="ch847"  tvg-logo="http://tv.team/images/chIcons/847.png"  timeshift="0", EU Cinema Kids: Marchen
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch847/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCre37STYceSbay4mXwB9WeDh7p3zQVp9FMK9r7dW40-
+#EXTINF:0 tvg-name="ch843"  tvg-logo="http://tv.team/images/chIcons/843.png"  timeshift="0", EU Cinema Kids: Mascha und der Bar
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch843/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVcWPiW8xOEIxWDpl_dHgFoAHgMN_N3T8C1h90UbW8l
+#EXTINF:0 tvg-name="ch206"  tvg-logo="http://tv.team/images/chIcons/206.png"  timeshift="0", Sky Select Programmubersicht
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch206/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLskgkbgnxm016gdbyEv4VMROgc79m9KCZm9tVWsFVGv
+#EXTINF:0 tvg-name="ch353"  tvg-logo="http://tv.team/images/chIcons/353.png"  timeshift="0", Sky Select 1 4K
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch353/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGpPqMvXqmd_i99Wjt37cjAOZQ-NSL8x9X8ePe4b13-_
+#EXTINF:0 tvg-name="ch362"  tvg-logo="http://tv.team/images/chIcons/362.png"  timeshift="0", Sky Select 2 4K
+#EXTGRP:15. Deutschland
+http://1.1usd.tv:34000/ch362/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBfY3L-zgTIe99NumSFi_LhF0wlmu4Q5UxlzlZBqB9k6
+#EXTINF:0 tvg-name="ch765"  tvg-logo="http://tv.team/images/chIcons/765.png"  timeshift="0", ES: DAZN F1 HD
+#EXTGRP:17. Spain
+http://1.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBgff453JItfdEweAVNTbQt3cjlwYpYOXcbsPeKX38wK
+#EXTINF:0 tvg-name="ch314"  tvg-logo="http://tv.team/images/chIcons/314.png"  timeshift="2", UK: Sky Sports Football HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch314/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMlOW5J3ZJHG2xmQexyVgVqp5aGuWA1cyfoUvM9kp5AG
+#EXTINF:0 tvg-name="ch234"  tvg-logo="http://tv.team/images/chIcons/234.png"  timeshift="2", UK: Sky Sports Mix HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch234/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGBGwTdF6pCTR5H5XVVn1ib6bKr-kSXBtLF8cQ1924x1
+#EXTINF:0 tvg-name="ch235"  tvg-logo="http://tv.team/images/chIcons/235.png"  timeshift="1", UK: Sky Sports Cricket HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch235/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO1g3jYg-zRf8aBHKZw6i5X5jYftfSvvtDJl7A7bUKlq
+#EXTINF:0 tvg-name="ch335"  tvg-logo="http://tv.team/images/chIcons/335.png"  timeshift="2", UK: Sky Sports Main Event HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch335/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFDQKDwoNxv36xe2NdHOrNWzaSv9oA5Q9MjT3Z-iReNw
+#EXTINF:0 tvg-name="ch1100"  tvg-logo="http://tv.team/images/chIcons/1100.png"  timeshift="2", UK: Sky Sports Racing HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch1100/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOyzpLMQK4bvVjd40rPlGKfiTkm5KnN6q-bmQW4ndnSm
+#EXTINF:0 tvg-name="ch074"  tvg-logo="http://tv.team/images/chIcons/74.png"  timeshift="2", UK: Sky Sports Arena HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch074/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDKH4rfi2ItloJJaRinTFJPvuN79wfk6TRrxzHxn-7Iw
+#EXTINF:0 tvg-name="ch236"  tvg-logo="http://tv.team/images/chIcons/236.png"  timeshift="2", UK: TNT Sport 1 HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPL6nWTZteIDWbfX9VCQlXS
+#EXTINF:0 tvg-name="ch334"  tvg-logo="http://tv.team/images/chIcons/334.png"  timeshift="2", UK: TNT Sport 2 HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVFXughJkuny59sjBNhhMYzy0nlT0s3nNFl0rxbglWy
+#EXTINF:0 tvg-name="ch233"  tvg-logo="http://tv.team/images/chIcons/233.png"  timeshift="2", UK: TNT Sport 3 HD
+#EXTGRP:19. United Kingdom
+http://1.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBh6b73uevF2wkYSFpnND9XKqZXHo2XqWMF7zHNuB2d6
+#EXTINF:0 tvg-name="ch573"  tvg-logo="http://tv.team/images/chIcons/573.png"  timeshift="6", KZ: 7 канал
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch573/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLDb7fbVQwx1nHZ6dXxkrAoHunjl7UuNGifmgRWE1Qq8
+#EXTINF:0 tvg-name="ch570"  tvg-logo="http://tv.team/images/chIcons/570.png"  timeshift="6", KZ: Qazaqstan HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch570/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCr2QgatJlDSUQo6klqnR6Zs6dZT5_rsCBM1pJxcemen
+#EXTINF:0 tvg-name="ch572"  tvg-logo="http://tv.team/images/chIcons/572.png"  timeshift="6", KZ: Astana TV
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch572/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN9Dj3th9A4BPk8GXEwlMI9sLS-mr1a4lf6VEJRuFtwy
+#EXTINF:0 tvg-name="ch1094"  tvg-logo="http://tv.team/images/chIcons/1094.png"  timeshift="0", KZ: Atameken Business
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1094/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKtDATxeSaApW3yQlxdwNKiflj-MniS7j_af2-VlSqf8
+#EXTINF:0 tvg-name="ch1096"  tvg-logo="http://tv.team/images/chIcons/1096.png"  timeshift="0", KZ: Ел Арна
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1096/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOuMM21wL_J4zIdULlGwbDfH5dZix6irsZPYxzmXub2v
+#EXTINF:0 tvg-name="ch571"  tvg-logo="http://tv.team/images/chIcons/571.png"  timeshift="0", KZ: КТК
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch571/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEYFbE2I37o-kDsHMtuRE2DB9X3-_raqAyKttM1wGPBz
+#EXTINF:0 tvg-name="ch1087"  tvg-logo="http://tv.team/images/chIcons/1087.png"  timeshift="0", KZ: Toi Duman
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1087/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL6s_z5NkWtdONAWhIduIZ9xY4uAToqx0M6ciRsva-nY
+#EXTINF:0 tvg-name="ch1088"  tvg-logo="http://tv.team/images/chIcons/1088.png"  timeshift="6", KZ: InSport HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1088/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDmLgoxUdMmmQzyHU1httikhE2OFttuFvDLXdXbVcmR2
+#EXTINF:0 tvg-name="ch1091"  tvg-logo="http://tv.team/images/chIcons/1091.png"  timeshift="6", KZ: Q Sport HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1091/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKwzIA9tY-H6F7rUAZKE21L9wrV-WqdR7ubA8dG03t17
+#EXTINF:0 tvg-name="ch1092"  tvg-logo="http://tv.team/images/chIcons/1092.png"  timeshift="6", KZ: Q Sport League HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1092/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBGRWbAZD89RefzbKlvBqNrnjSBPq1GpXXcmjrJWJ-ln
+#EXTINF:0 tvg-name="ch1093"  tvg-logo="http://tv.team/images/chIcons/1093.png"  timeshift="6", KZ: Q KinoHit
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1093/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKmKtPmmmpLfBIjeMjMIeOGAmzMjJnBNWMxcUvZS0fqY
+#EXTINF:0 tvg-name="ch1095"  tvg-logo="http://tv.team/images/chIcons/1095.png"  timeshift="6", KZ: Q KinoAlem
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1095/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL8BGNgJa-R9o6wlF-Q2JvtBv4gRIOARTOAnGEx2uoTA
+#EXTINF:0 tvg-name="ch582"  tvg-logo="http://tv.team/images/chIcons/582.png"  timeshift="6", KZ: Хабар HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch582/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE2UaEimn_FlU9zAwL3XIqU3WYGF_p7po-X4VH1t1kzn
+#EXTINF:0 tvg-name="ch1097"  tvg-logo="http://tv.team/images/chIcons/1097.png"  timeshift="0", KZ: Хабар 24 HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch1097/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMzH-9s-KIh8qLpZD5b_S0IPQJRPLrdhbcIUU_Dq7Mbd
+#EXTINF:0 tvg-name="ch639"  tvg-logo="http://tv.team/images/chIcons/639.png"  timeshift="6", KZ: Setanta Qazaqstan HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch639/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHipGm1_tNTYg5b50GRLFWIhztJk7AgHRcznxw5tsuSx
+#EXTINF:0 tvg-name="ch2309"  tvg-logo="http://tv.team/images/chIcons/2309.png"  timeshift="6", KZ: Кино Боевик HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch2309/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIVZu7Or62W2buk5e38hc9njDMbPi3_zi06DE0xwk-E6
+#EXTINF:0 tvg-name="ch2308"  tvg-logo="http://tv.team/images/chIcons/2308.png"  timeshift="6", KZ: Семейное Кино HD
+#EXTGRP:22. Kazakhstan
+http://1.1usd.tv:34000/ch2308/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC8_sGs6_oVPWdgikAapj02SFeZVJBJ3ssQX-e7Etl9i
+#EXTINF:0 tvg-name="ch679"  tvg-logo="http://tv.team/images/chIcons/679.png"  timeshift="3", LT: Balticum Platinum
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch679/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGNPG5sy9vwirQKdYNDExZCkGX19Iv4dqodQaLRJtqhX
+#EXTINF:0 tvg-name="ch705"  tvg-logo="http://tv.team/images/chIcons/705.png"  timeshift="3", LT: Balticum Auksinis
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch705/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLI1YyqEp2QI0FooYPKZlNB2hu-INmpGP0ijuL-qVF_L
+#EXTINF:0 tvg-name="ch675"  tvg-logo="http://tv.team/images/chIcons/675.png"  timeshift="3", LT: BTV HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch675/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNCJGFQw3u-MG5Xfs7YndjSQli55FEQ2M8C8Xd9Lc_hQ
+#EXTINF:0 tvg-name="ch137"  tvg-logo="http://tv.team/images/chIcons/137.png"  timeshift="3", LT: Go3 Sport 1 HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch137/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdF_0KAsW_e8J6LT6r2wU6CE0-Nhsqxv1iiPSpkJSKvJU
+#EXTINF:0 tvg-name="ch621"  tvg-logo="http://tv.team/images/chIcons/621.png"  timeshift="3", LT: Go3 Films
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch621/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGe5j-Qm-HCT0ojoU175ntC2G_RFbiF428Al7PSMlFwB
+#EXTINF:0 tvg-name="ch431"  tvg-logo="http://tv.team/images/chIcons/431.png"  timeshift="3", LT: Delfi TV HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch431/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCUayb3XbD51yhpWXiUAVBnLvQhQEmyVzwtEpwh-_nME
+#EXTINF:0 tvg-name="ch674"  tvg-logo="http://tv.team/images/chIcons/674.png"  timeshift="3", LT: INFO TV HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch674/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD9OBz4m0m-ORwMT62v5ebjBGUy3h0Q9hD_RJZJeljkO
+#EXTINF:0 tvg-name="ch580"  tvg-logo="http://tv.team/images/chIcons/580.png"  timeshift="3", LT: LRT HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch580/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdONJXqQFJJFnYLH0WuJrL_thUO0ZNhQuRLN3R1uonAyk
+#EXTINF:0 tvg-name="ch677"  tvg-logo="http://tv.team/images/chIcons/677.png"  timeshift="3", LT: LRT Plius HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch677/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMXlD3R1c6SWN_C8m_JI5GBiHT5EehmD6QORjMR2o34t
+#EXTINF:0 tvg-name="ch678"  tvg-logo="http://tv.team/images/chIcons/678.png"  timeshift="3", LT: Lietuvos Rytas
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch678/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBQe4qzIVuQOoXhjsWbGIJ9Mo6VkDP8XEDKqslVJtCEn
+#EXTINF:0 tvg-name="ch673"  tvg-logo="http://tv.team/images/chIcons/673.png"  timeshift="3", LT: LNK HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch673/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdODddMh4K_WH8cTVgHTc3dPSKNHptk22tVAdsuTw9AEy
+#EXTINF:0 tvg-name="ch577"  tvg-logo="http://tv.team/images/chIcons/577.png"  timeshift="0", LT: LNK
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch577/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK2yRpF3qlvKPl-pfQHDoPhRWaEMt0N1Sd5WP_SGFwU4
+#EXTINF:0 tvg-name="ch676"  tvg-logo="http://tv.team/images/chIcons/676.png"  timeshift="3", LT: Sport 1 HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch676/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLn4T6tu_Ojw5btGfQzjao-DaNo3xGwJkoAi5rbiwIy6
+#EXTINF:0 tvg-name="ch669"  tvg-logo="http://tv.team/images/chIcons/669.png"  timeshift="3", LT: TV1 HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch669/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMxkDSNJEKpe_Y_ylnhLU8W2MlhYyu9Qlbgf9Vx8wDTL
+#EXTINF:0 tvg-name="ch670"  tvg-logo="http://tv.team/images/chIcons/670.png"  timeshift="3", LT: TV3 HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch670/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBEOirQkUnjSgtbyciUChm37fRYu_127WuTii3IaefsJ
+#EXTINF:0 tvg-name="ch579"  tvg-logo="http://tv.team/images/chIcons/579.png"  timeshift="3", LT: TV3
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch579/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHS2_kyw9swneE18ANyjmGhB-MTEZeJYxD0Q7eYGNQj3
+#EXTINF:0 tvg-name="ch671"  tvg-logo="http://tv.team/images/chIcons/671.png"  timeshift="3", LT: TV6 HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch671/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAnqu6PPqG9xcGvR7vVvifyQ7qu6Ivt-IU-M6sQMFYnP
+#EXTINF:0 tvg-name="ch1636"  tvg-logo="http://tv.team/images/chIcons/1636.png"  timeshift="3", LT: TV6
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch1636/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJgoQ9DIbeMgb_54Fa87VGjy-5Su7QUHRg8Kkk_VMmYL
+#EXTINF:0 tvg-name="ch706"  tvg-logo="http://tv.team/images/chIcons/706.png"  timeshift="3", LT: TV7
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch706/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLq-Rf1zmjlf6ukMb84SKWWfgkFZwwjFkrmiJEmgdYFd
+#EXTINF:0 tvg-name="ch672"  tvg-logo="http://tv.team/images/chIcons/672.png"  timeshift="3", LT: TV8 HD
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch672/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOngK8lpKW9FVvpXlzbJ1r5pgWBbKoztW2NAFHCL44UL
+#EXTINF:0 tvg-name="ch1637"  tvg-logo="http://tv.team/images/chIcons/1637.png"  timeshift="3", LT: TV8
+#EXTGRP:23. Lietuva
+http://1.1usd.tv:34000/ch1637/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNfxKImdrhvI5BCYzupyOCS2i_3HPycHG4jEobgKKRaf
+#EXTINF:0 tvg-name="ch1102"  tvg-logo="http://tv.team/images/chIcons/1102.png"  timeshift="6", LV: 24 TV HD
+#EXTGRP:24. Latvija
+http://1.1usd.tv:34000/ch1102/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGnt7p0_JB6gehKLiyPyiXhzhOZbKUVSTgewdIf893Z9
+#EXTINF:0 tvg-name="ch1104"  tvg-logo="http://tv.team/images/chIcons/1104.png"  timeshift="6", LV: 360 TV HD
+#EXTGRP:24. Latvija
+http://1.1usd.tv:34000/ch1104/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCvF02834anO-en_N2-b78i29r9rOIA2x_AI4_pVikrN
+#EXTINF:0 tvg-name="ch581"  tvg-logo="http://tv.team/images/chIcons/581.png"  timeshift="6", LV: LTV1
+#EXTGRP:24. Latvija
+http://1.1usd.tv:34000/ch581/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNb11SJyk_wKo-pYHUbJuGi7VsEYMSvMVZSjL-ihCndE
+#EXTINF:0 tvg-name="ch578"  tvg-logo="http://tv.team/images/chIcons/578.png"  timeshift="6", LV: TV3 HD
+#EXTGRP:24. Latvija
+http://1.1usd.tv:34000/ch578/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEnZGA5cEIaQGGQE_Of9QtZ_y65hhE9tiRP6dHweVSP3
+#EXTINF:0 tvg-name="ch1101"  tvg-logo="http://tv.team/images/chIcons/1101.png"  timeshift="6", LV: TV3 Life
+#EXTGRP:24. Latvija
+http://1.1usd.tv:34000/ch1101/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIG8t14w2h5E6RsGUgCmrSUfPOhpv_hSMNi8T_0BrNNb
+#EXTINF:0 tvg-name="ch1105"  tvg-logo="http://tv.team/images/chIcons/1105.png"  timeshift="6", EE: ETV HD
+#EXTGRP:25. Estonia
+http://1.1usd.tv:34000/ch1105/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGLrKeYNwgywU6wlWTsp5sqDkS6rBkebLbKpnCtc6jit
+#EXTINF:0 tvg-name="ch1107"  tvg-logo="http://tv.team/images/chIcons/1107.png"  timeshift="6", EE: ETV2 HD
+#EXTGRP:25. Estonia
+http://1.1usd.tv:34000/ch1107/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK-DOEtUolyE5ItQIVLETmOKYYBmFrpMbIc7VUzvGMlF
+#EXTINF:0 tvg-name="ch1106"  tvg-logo="http://tv.team/images/chIcons/1106.png"  timeshift="6", EE: ETV Plus HD
+#EXTGRP:25. Estonia
+http://1.1usd.tv:34000/ch1106/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO0RLyTqrxQZ_IQg5SPlvT9f3GXjNHDWlmQyC-BYpwjC
+#EXTINF:0 tvg-name="ch1642"  tvg-logo="http://tv.team/images/chIcons/1642.png"  timeshift="6", EE: Kanal 2
+#EXTGRP:25. Estonia
+http://1.1usd.tv:34000/ch1642/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE_nIJKBN5Bk-lEAnJOhx7HCyaGKrMo4Nrxd_Mzt2qhj
+#EXTINF:0 tvg-name="ch1082"  tvg-logo="http://tv.team/images/chIcons/1082.png"  timeshift="6", EE: TV3 HD
+#EXTGRP:25. Estonia
+http://1.1usd.tv:34000/ch1082/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdF-FsKTBqN421z1hOyKBreLkV1kVCP8m-hZcvwhHmfCF
+#EXTINF:0 tvg-name="ch1278"  tvg-logo="http://tv.team/images/chIcons/1278.png"  timeshift="6", EE: TV6 HD
+#EXTGRP:25. Estonia
+http://1.1usd.tv:34000/ch1278/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOfrGnzZymzxwQMlfsjrz8UD_PWzP6HvZKDPuKO0XPq1
+#EXTINF:0 tvg-name="ch295"  tvg-logo="http://tv.team/images/chIcons/295.png"  timeshift="0", MD: Moldova 1
+#EXTGRP:26. Moldova
+http://1.1usd.tv:34000/ch295/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFoNg8qU7BMJwfVcQPTxmwAkHCQ_GGOjgcX7ZrzwyDtM
+#EXTINF:0 tvg-name="ch1083"  tvg-logo="http://tv.team/images/chIcons/1083.png"  timeshift="0", AM: 21TV
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1083/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOWVcNDdPZOkrA2_SozjzBP8CjMDE9H4av8hc7VYgeRb
+#EXTINF:0 tvg-name="ch1079"  tvg-logo="http://tv.team/images/chIcons/1079.png"  timeshift="3", AM: 5 TV
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1079/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNsQcIF-pfEPl5wJh1XYg0KOP2Y8-skHjJjq4aC37eI0
+#EXTINF:0 tvg-name="ch574"  tvg-logo="http://tv.team/images/chIcons/574.png"  timeshift="3", AM: Armenia TV
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch574/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIFhauR_xZha1hgo-Y1CXZsBWtP5XowBtsdLOiSbfQGL
+#EXTINF:0 tvg-name="ch1077"  tvg-logo="http://tv.team/images/chIcons/1077.png"  timeshift="3", AM: Arajin Aliq
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1077/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH33-GL_TNHGWnjRodgav_Mfnw2LZCh-iB90RvvoDkxy
+#EXTINF:0 tvg-name="ch1086"  tvg-logo="http://tv.team/images/chIcons/1086.png"  timeshift="3", AM: Arajin Aliq Sat HD
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1086/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKRwT-8-K0gKHZUy8-o_4-bC7VswKjY8Z3Iw-meItPF_
+#EXTINF:0 tvg-name="ch2068"  tvg-logo="http://tv.team/images/chIcons/2068.png"  timeshift="0", Arajin Aliq USA
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch2068/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFJbX0kCPEeLN6XF3zM--16eYRIMK1vzv4PIeUqsfz4N
+#EXTINF:0 tvg-name="ch576"  tvg-logo="http://tv.team/images/chIcons/576.png"  timeshift="3", AM: ATV HD
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch576/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKhpN4QKEqhrFoxgOnClJu9oh1iA5LuX5bJJ9wDOdY5C
+#EXTINF:0 tvg-name="ch1081"  tvg-logo="http://tv.team/images/chIcons/1081.png"  timeshift="0", AM: AABC
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1081/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL2x8aDY_wrGxeRhGP9x5jInc_SV5BA0AABZ6ATUevv1
+#EXTINF:0 tvg-name="ch1544"  tvg-logo="http://tv.team/images/chIcons/1544.png"  timeshift="0", AM: Blues TV
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1544/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFLS2Mn_GoEh3y7xwbA4gpTnwzoHdXOpbw9a4Z0Jbsiu
+#EXTINF:0 tvg-name="ch1078"  tvg-logo="http://tv.team/images/chIcons/1078.png"  timeshift="3", AM: H2
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1078/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBVQUAPS_eSVfB5GPsNMD8IWLZ9R-8ARtDGE7gkoR-x2
+#EXTINF:0 tvg-name="ch1076"  tvg-logo="http://tv.team/images/chIcons/1076.png"  timeshift="3", AM: Kentron
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1076/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMhJYsWPBTgZVo8XeyWxWesveOjuF6s_O2yEpNx40qfk
+#EXTINF:0 tvg-name="ch575"  tvg-logo="http://tv.team/images/chIcons/575.png"  timeshift="3", AM: Shant HD
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch575/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNpcaRabA9pvKz9af_zPwCDvJOvGMfLa1tdfwGzRh3VL
+#EXTINF:0 tvg-name="ch1080"  tvg-logo="http://tv.team/images/chIcons/1080.png"  timeshift="3", AM: Shant Serial  HD
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1080/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHF8oVU_kQpB83-XWfr6hFUm1bb5fuEFI1H9GaRK3jGk
+#EXTINF:0 tvg-name="ch1075"  tvg-logo="http://tv.team/images/chIcons/1075.png"  timeshift="3", AM: Shant Film
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1075/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLeFhB_CpHrGDAEPLQx9rzGGPHpbhojIZBUFTJv-R8h0
+#EXTINF:0 tvg-name="ch1085"  tvg-logo="http://tv.team/images/chIcons/1085.png"  timeshift="3", AM: Shoghakat TV
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1085/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEm8zj6WlP9Bd9TIo1vNcIz-lS3rKvEYjhNQe03TWt3k
+#EXTINF:0 tvg-name="ch1084"  tvg-logo="http://tv.team/images/chIcons/1084.png"  timeshift="3", AM: Yerkir Media
+#EXTGRP:28. Armenia
+http://1.1usd.tv:34000/ch1084/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNwEQKLLVCfM-w3RqEZWSwpIRzwj8KZFBFUtTmlLDm6u
+#EXTINF:0 tvg-name="ch1205"  tvg-logo="http://tv.team/images/chIcons/1205.png"  timeshift="3", GE: Ajara HD
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1205/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKge57SNHigAQRb8TmWLxXcL3Zb4u2Bz-XIZuBslgAaE
+#EXTINF:0 tvg-name="ch1211"  tvg-logo="http://tv.team/images/chIcons/1211.png"  timeshift="3", GE: Formula HD
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1211/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMGFSBnvMZlCQLIAzKUQuTLJ1rShynZ_TT607QStt6QJ
+#EXTINF:0 tvg-name="ch1202"  tvg-logo="http://tv.team/images/chIcons/1202.png"  timeshift="3", GE: Imedi
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1202/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNKtpk6LeNy1nI-B4K8iZbxKxMUmxcRVk_lHEft4Hohj
+#EXTINF:0 tvg-name="ch1201"  tvg-logo="http://tv.team/images/chIcons/1201.png"  timeshift="3", GE: Mtavari Arkhi HD
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1201/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAvd-ST4zDhg7ljcW5Egygtv7CsO8MF-eThCObcRNZ59
+#EXTINF:0 tvg-name="ch1204"  tvg-logo="http://tv.team/images/chIcons/1204.png"  timeshift="3", GE: Maestro TV
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1204/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdISEVtJfWq8n8QVpuzRMy1mA6kBfLjeuYPZS6zCjJPjR
+#EXTINF:0 tvg-name="ch1203"  tvg-logo="http://tv.team/images/chIcons/1203.png"  timeshift="3", GE: Marneuli
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1203/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCpwIEOlZFKo6YkGF1hg4zC0EsV32yQryggnMRnUyXiA
+#EXTINF:0 tvg-name="ch1212"  tvg-logo="http://tv.team/images/chIcons/1212.png"  timeshift="3", GE: Obieqtivi
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1212/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO8u1KWx6LlIsN0jUt66M0k_qPfRvbx0k4uuBEEUcMxK
+#EXTINF:0 tvg-name="ch1200"  tvg-logo="http://tv.team/images/chIcons/1200.png"  timeshift="3", GE: Pirveli HD
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1200/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPgSX17fXaKViU37Qz6nRUSe-RtBAsLo99CSTYKQdI7g
+#EXTINF:0 tvg-name="ch1208"  tvg-logo="http://tv.team/images/chIcons/1208.png"  timeshift="3", GE: Palitra News
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1208/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJ7w0yfjn7VxA7u4NkKC0lRQc2vGB71D5pZ6upF7Fq1D
+#EXTINF:0 tvg-name="ch1207"  tvg-logo="http://tv.team/images/chIcons/1207.png"  timeshift="3", GE: Rustavi 2
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1207/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAe2G8hu44Gqi__Oe0_WO3dqH175K0nyrHqNjeIaI3Rh
+#EXTINF:0 tvg-name="ch1614"  tvg-logo="http://tv.team/images/chIcons/1614.png"  timeshift="3", GE: Regbi TV
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1614/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN3_hbVCzya4S9h85wbUh82W5cEiVVSjKDiHaaG2zi7q
+#EXTINF:0 tvg-name="ch2239"  tvg-logo="http://tv.team/images/chIcons/2239.png"  timeshift="0", GE: Rioni
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch2239/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD6z48LhupxzveMQ3SizDiSDtoZ4HiY1X5VkcMWlFrH4
+#EXTINF:0 tvg-name="ch1213"  tvg-logo="http://tv.team/images/chIcons/1213.png"  timeshift="0", GE: Saperavi
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1213/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNeA3q9LE5tX9ChJZGsmu5qsg45-E4-sW97HEfs-OKZQ
+#EXTINF:0 tvg-name="ch1199"  tvg-logo="http://tv.team/images/chIcons/1199.png"  timeshift="3", GE: Setanta Sports 1 Georgia HD
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1199/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB3Vfi6NjYZlT3shBe_V6ZBO3JnP3NUKl1qRnMta4WLm
+#EXTINF:0 tvg-name="ch1206"  tvg-logo="http://tv.team/images/chIcons/1206.png"  timeshift="3", GE: Setanta Sports 2 Georgia HD
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1206/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdByKO1luhrihZqyW7wgIYEP88ZbFxoiokN9V7nUyHaId
+#EXTINF:0 tvg-name="ch1198"  tvg-logo="http://tv.team/images/chIcons/1198.png"  timeshift="3", GE: Trialeti
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1198/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP4C2vB4Rslclc_VrnV6Dt1oOn1vSPGaX5z8Jnfi7G_B
+#EXTINF:0 tvg-name="ch1210"  tvg-logo="http://tv.team/images/chIcons/1210.png"  timeshift="3", GE: TV25
+#EXTGRP:29. Georgia
+http://1.1usd.tv:34000/ch1210/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdINd0NeU8A_gyL8i6rIzP3DYdLVHeZiz4sERE2-7-7k6
+#EXTINF:0 tvg-name="ch1530"  tvg-logo="http://tv.team/images/chIcons/1530.png"  timeshift="0", AZ: ATV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1530/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDEjuetmUfhtpulpZEHJrFJ6Wec75OZXdRzyP4Kk4QRN
+#EXTINF:0 tvg-name="ch1541"  tvg-logo="http://tv.team/images/chIcons/1541.png"  timeshift="0", AZ: ARB TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1541/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH2Ie5N0v8fkWEOdYtpF5TcIQz2_p8lun31rCTccja9w
+#EXTINF:0 tvg-name="ch1540"  tvg-logo="http://tv.team/images/chIcons/1540.png"  timeshift="0", AZ: ARB 24
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1540/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIsancwomcMH43eYaeKFBJx8X97YdyN604n40uWLunfI
+#EXTINF:0 tvg-name="ch1532"  tvg-logo="http://tv.team/images/chIcons/1532.png"  timeshift="0", AZ: ARB Gunes
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1532/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEnYngfhrLenlfHo-1xc1dCYzF76LnPw3_wYtqIZG9iQ
+#EXTINF:0 tvg-name="ch1531"  tvg-logo="http://tv.team/images/chIcons/1531.png"  timeshift="0", AZ: AZ TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1531/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNjPerG_jO6jSwI5BT4BEtQdemjA3i-WPx2V0EhhB5NW
+#EXTINF:0 tvg-name="ch1533"  tvg-logo="http://tv.team/images/chIcons/1533.png"  timeshift="0", AZ: CBC
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1533/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCX2BHgFEuk5TwO2Cd62JbWThFEx1_9QWZ6OrUoKJqZ5
+#EXTINF:0 tvg-name="ch1534"  tvg-logo="http://tv.team/images/chIcons/1534.png"  timeshift="0", AZ: CBC Sport HD
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1534/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP7IsHp_1xzths-I1Io2TR59ZbWVeJLpy0DGEwA70Vif
+#EXTINF:0 tvg-name="ch1542"  tvg-logo="http://tv.team/images/chIcons/1542.png"  timeshift="0", AZ: Dunya TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1542/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAoMDvnC4TazmmXjECO3Xwy90qRiPB0X9ex4bhZRrAAM
+#EXTINF:0 tvg-name="ch1535"  tvg-logo="http://tv.team/images/chIcons/1535.png"  timeshift="0", AZ: Ictimai TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1535/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNvCLB7BB8MfECP6g0njaoncNYbDsRD-yWGJHZFYxgpz
+#EXTINF:0 tvg-name="ch1536"  tvg-logo="http://tv.team/images/chIcons/1536.png"  timeshift="0", AZ: Idman
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1536/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNd5WEvzPygsqBbM0k3SFggNEK0eG2RWgvdwpdtm51gv
+#EXTINF:0 tvg-name="ch1537"  tvg-logo="http://tv.team/images/chIcons/1537.png"  timeshift="0", AZ: Medeniyyet TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1537/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL4KPQKox1aBtZGTDF58v41YulIk6i_Ie0vdJizRlKBm
+#EXTINF:0 tvg-name="ch1543"  tvg-logo="http://tv.team/images/chIcons/1543.png"  timeshift="0", AZ: Real TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1543/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBDCRJgS2ELdvnVxV5lqMgFbo-gu1rkQ-KCdsBVeP99F
+#EXTINF:0 tvg-name="ch1538"  tvg-logo="http://tv.team/images/chIcons/1538.png"  timeshift="0", AZ: Space TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1538/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKKYl7qCs4hx7YP4GqwOuDK7GKV7gBh2uhPH3dVjPcE0
+#EXTINF:0 tvg-name="ch1539"  tvg-logo="http://tv.team/images/chIcons/1539.png"  timeshift="0", AZ: Xezer TV
+#EXTGRP:31. Azerbaijan
+http://1.1usd.tv:34000/ch1539/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMnGFXCHA4MeqE-O-kO1PXk1N-VqsrDd3d3xIe9RgHBC
+#EXTINF:0 tvg-name="ch1785"  tvg-logo="http://tv.team/images/chIcons/1785.png"  timeshift="0", UZ: Uzbekiston 24 HD
+#EXTGRP:32. Uzbekistan
+http://1.1usd.tv:34000/ch1785/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLZXwJC2OCuQzESe_fKLQbR7BCUyzddo1JltOyZGfBNy
+#EXTINF:0 tvg-name="ch1792"  tvg-logo="http://tv.team/images/chIcons/1792.png"  timeshift="0", UZ: Milliy TV
+#EXTGRP:32. Uzbekistan
+http://1.1usd.tv:34000/ch1792/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMUxFfJL1X5B4HrdGY5Fjxnj2zoSmFFTHKhjRlxQE0rP
+
+
+
+

@@ -1,5 +1,8 @@
 #EXTM
 ##############################################MOTOGP###################################################
+#EXTINF:-1 group-title="MOTOGP",TNT SPORT 2
+http://1.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVFXughJkuny59sjBNhhMYzy0nlT0s3nNFl0rxbglWy
+
 #EXTINF:-1 group-title="MOTOGP",UK: SKY SPORTS Premier League
 http://jmrk.xyz:3050/Baker/2AFnCUkyAB/508256
 

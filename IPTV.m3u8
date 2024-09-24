@@ -19,23 +19,35 @@ http://325080141159228385.ofg0316.xyz:80/play/mi34647/GjJm3vdSy@/228385.ts
 #EXTGRP:спорт
 http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7342/index.m3u8
 
+#EXTINF:0 tvg-name="ch765"  tvg-logo="http://tv.team/images/chIcons/765.png"  timeshift="0", ES: DAZN F1 HD
+#EXTGRP:17. Spain
+http://1.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBgff453JItfdEweAVNTbQt3cjlwYpYOXcbsPeKX38wK
+#EXTINF:0 tvg-name="ch314"  tvg-logo="http://tv.team/images/chIcons/314.png"  timeshift="2", UK: Sky Sports Football HD
+#EXTGRP:SPORTS United Kingdom
+http://1.1usd.tv:34000/ch314/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMlOW5J3ZJHG2xmQexyVgVqp5aGuWA1cyfoUvM9kp5AG
+#EXTINF:0 tvg-name="ch234"  tvg-logo="http://tv.team/images/chIcons/234.png"  timeshift="2", UK: Sky Sports Mix HD
+#EXTGRP:SPORTS United Kingdom
+http://1.1usd.tv:34000/ch234/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGBGwTdF6pCTR5H5XVVn1ib6bKr-kSXBtLF8cQ1924x1
+#EXTINF:0 tvg-name="ch235"  tvg-logo="http://tv.team/images/chIcons/235.png"  timeshift="1", UK: Sky Sports Cricket HD
+#EXTGRP:SPORTS United Kingdom
+http://1.1usd.tv:34000/ch235/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO1g3jYg-zRf8aBHKZw6i5X5jYftfSvvtDJl7A7bUKlq
 #EXTINF:0 tvg-name="ch335"  tvg-logo="http://tv.team/images/chIcons/335.png"  timeshift="2", UK: Sky Sports Main Event HD
-#EXTGRP:19. United Kingdom
+#EXTGRP:SPORTS United Kingdom
 http://1.1usd.tv:34000/ch335/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFDQKDwoNxv36xe2NdHOrNWzaSv9oA5Q9MjT3Z-iReNw
 #EXTINF:0 tvg-name="ch1100"  tvg-logo="http://tv.team/images/chIcons/1100.png"  timeshift="2", UK: Sky Sports Racing HD
-#EXTGRP:19. United Kingdom
+#EXTGRP:SPORTS United Kingdom
 http://1.1usd.tv:34000/ch1100/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOyzpLMQK4bvVjd40rPlGKfiTkm5KnN6q-bmQW4ndnSm
 #EXTINF:0 tvg-name="ch074"  tvg-logo="http://tv.team/images/chIcons/74.png"  timeshift="2", UK: Sky Sports Arena HD
-#EXTGRP:19. United Kingdom
+#EXTGRP:SPORTS United Kingdom
 http://1.1usd.tv:34000/ch074/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDKH4rfi2ItloJJaRinTFJPvuN79wfk6TRrxzHxn-7Iw
 #EXTINF:0 tvg-name="ch236"  tvg-logo="http://tv.team/images/chIcons/236.png"  timeshift="2", UK: TNT Sport 1 HD
-#EXTGRP:19. United Kingdom
+#EXTGRP:SPORTS United Kingdom
 http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPL6nWTZteIDWbfX9VCQlXS
 #EXTINF:0 tvg-name="ch334"  tvg-logo="http://tv.team/images/chIcons/334.png"  timeshift="2", UK: TNT Sport 2 HD
-#EXTGRP:19. United Kingdom
+#EXTGRP:SPORTS United Kingdom
 http://1.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVFXughJkuny59sjBNhhMYzy0nlT0s3nNFl0rxbglWy
 #EXTINF:0 tvg-name="ch233"  tvg-logo="http://tv.team/images/chIcons/233.png"  timeshift="2", UK: TNT Sport 3 HD
-#EXTGRP:19. United Kingdom
+#EXTGRP:SPORTS United Kingdom
 http://1.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBh6b73uevF2wkYSFpnND9XKqZXHo2XqWMF7zHNuB2d6
 
 #EXTINF:-1 group-title="SPORTS",||BE|| ELEVEN SPORTS 1 HD+

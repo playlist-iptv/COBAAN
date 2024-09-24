@@ -19,8 +19,11 @@ http://325080141159228385.ofg0316.xyz:80/play/mi34647/GjJm3vdSy@/228385.ts
 #EXTGRP:спорт
 http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7342/index.m3u8
 
+#EXTINF:0 tvg-rec="0",SKY SPORT MOTOGP
+#EXTGRP:SPORTS United Kingdom
+http://3583a204.kazaktelekom.com/iptv/B5MWVF2B66GG8B/19133/index.m3u8
 #EXTINF:0 tvg-name="ch765"  tvg-logo="http://tv.team/images/chIcons/765.png"  timeshift="0", ES: DAZN F1 HD
-#EXTGRP:17. Spain
+#EXTGRP:SPORTS United Kingdom
 http://1.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBgff453JItfdEweAVNTbQt3cjlwYpYOXcbsPeKX38wK
 #EXTINF:0 tvg-name="ch314"  tvg-logo="http://tv.team/images/chIcons/314.png"  timeshift="2", UK: Sky Sports Football HD
 #EXTGRP:SPORTS United Kingdom

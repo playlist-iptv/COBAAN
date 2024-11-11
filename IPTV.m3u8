@@ -19,6 +19,14 @@ http://325080141159228385.ofg0316.xyz:80/play/mi34647/GjJm3vdSy@/228385.ts
 #EXTGRP:спорт
 http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7342/index.m3u8
 
+#EXTINF:0 tvg-rec="3",Go3 Sport 1 HD LT
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/6417/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Go3 Sport 2 HD LT
+#EXTGRP:другие
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/6418/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Go3 Sport 3 HD LV
 #EXTGRP:SPORTS RUSSIAN
 http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/6408/index.m3u8

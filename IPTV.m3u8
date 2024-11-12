@@ -39,6 +39,17 @@ http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/2160/index.m3u8
 #EXTGRP:SPORTS RUSSIAN
 http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/5042/index.m3u8
 
+#EXTINF:0 tvg-rec="0",BOX Be On Edge HD
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/19424/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 1 HD
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/19422/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 2 HD
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/19423/index.m3u8
+
+
 #EXTINF:0 tvg-rec="0",SKY SPORT MOTOGP
 #EXTGRP:SPORTS United Kingdom
 http://3583a204.kazaktelekom.com/iptv/B5MWVF2B66GG8B/19133/index.m3u8

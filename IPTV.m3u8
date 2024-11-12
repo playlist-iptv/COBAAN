@@ -49,6 +49,20 @@ http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/19422/index.m3u8
 #EXTGRP:SPORTS RUSSIAN
 http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/19423/index.m3u8
 
+#EXTINF:0 tvg-rec="3",Motorvision TV DE
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/6112/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/124/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/530/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/522/index.m3u8
+
 
 #EXTINF:0 tvg-rec="0",SKY SPORT MOTOGP
 #EXTGRP:SPORTS United Kingdom

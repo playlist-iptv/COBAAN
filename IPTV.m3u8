@@ -63,6 +63,23 @@ http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/530/index.m3u8
 #EXTGRP:SPORTS RUSSIAN
 http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/522/index.m3u8
 
+#EXTINF:0 tvg-rec="3",Bein Sports 1 HD FR
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/2499/index.m3u8
+#EXTINF:0 tvg-rec="3",Bein Sports 2 HD FR
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/2500/index.m3u8
+#EXTINF:0 tvg-rec="3",Bein Sports 3 HD FR
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/2501/index.m3u8
+
+#EXTINF:0 tvg-rec="3",TNT Sports 1 UK
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/2505/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
+#EXTGRP:SPORTS RUSSIAN
+http://hugo9edem.ucomist.net/iptv/BGKX47CZ7FBBFXTRG2VPM5DC/2506/index.m3u8
+
 
 #EXTINF:0 tvg-rec="0",SKY SPORT MOTOGP
 #EXTGRP:SPORTS United Kingdom
